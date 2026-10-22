@@ -1,0 +1,601 @@
+Car_ID,Brand,Model,Manufacturing_Year,Purchase_Date,Selling_Date,Fuel_Type,Transmission,Car_Category,Kilometers_Driven,Purchase_Price,Selling_Price,Profit,Customer_Age,Customer_Gender,City,Salesperson,Payment_Mode
+CAR_1001,Mahindra,Thar,2022,2022-05-07,2022-10-05,Petrol,Manual,SUV,117727,1639911,1933668,293757,43,Male,Pune,Priya Kulkarni,Finance/Loan
+CAR_1002,Honda,Amaze,2016,2016-12-21,2017-06-29,Petrol,Manual,Hatchback,98016,1317040,1519164,202124,63,Female,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1003,Honda,Amaze,2017,2017-12-23,2018-09-22,Diesel,Manual,Hatchback,8890,1705416,1857380,151964,25,Male,Bangalore,Sneha Patil,Bank Transfer
+CAR_1004,Hyundai,i20,2019,2019-02-20,2019-06-21,Petrol,Manual,Hatchback,22159,1296942,1432175,135233,38,Female,Pune,Priya Kulkarni,Finance/Loan
+CAR_1005,Hyundai,Creta,2020,2020-06-10,2021-03-26,Petrol,Automatic,SUV,77409,596769,677524,80755,57,Female,Bangalore,Rahul Sharma,Bank Transfer
+CAR_1006,Toyota,Innova,2016,2016-05-24,2017-01-25,Petrol,Manual,Hatchback,110512,2010908,2397620,386712,22,Male,Mumbai,Priya Kulkarni,Cash
+CAR_1007,Mahindra,XUV700,2017,2017-01-08,2017-07-19,Diesel,Manual,SUV,8561,688998,806920,117922,49,Male,Mumbai,Priya Kulkarni,Finance/Loan
+CAR_1008,Hyundai,i20,2021,2021-07-24,2022-06-11,Diesel,Manual,Hatchback,29538,891234,977454,86220,35,Male,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1009,Honda,Elevate,2023,2023-10-10,2024-05-05,Petrol,Manual,Hatchback,112059,1274371,1538241,263870,44,Male,Delhi,Amit Deshmukh,UPI
+CAR_1010,Toyota,Innova,2021,2021-11-19,2022-03-14,CNG,Manual,Hatchback,47557,509556,612488,102932,49,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1011,Honda,Elevate,2021,2021-12-25,2022-09-11,CNG,Manual,Hatchback,71842,1903165,2055556,152391,34,Male,Kolhapur,Amit Deshmukh,Bank Transfer
+CAR_1012,Tata,Nexon,2019,2019-01-19,2019-10-09,Petrol,Automatic,SUV,98557,461087,531463,70376,62,Female,Mumbai,Sneha Patil,Cash
+CAR_1013,Hyundai,Creta,2021,2021-02-03,2021-06-25,Petrol,Automatic,SUV,31736,625281,719307,94026,44,Male,Mumbai,Rahul Sharma,UPI
+CAR_1014,Honda,Amaze,2019,2019-12-26,2020-07-02,Diesel,Manual,Hatchback,57662,1829626,2038024,208398,59,Female,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1015,Honda,Amaze,2015,2015-09-27,2016-09-16,Diesel,Automatic,Hatchback,7811,1310681,1509502,198821,40,Female,Bangalore,Rahul Sharma,Cash
+CAR_1016,Hyundai,i20,2023,2023-09-18,2024-03-16,Diesel,Automatic,Hatchback,21646,1045263,1248473,203210,23,Male,Bangalore,Rahul Sharma,Cash
+CAR_1017,Tata,Altroz,2023,2023-09-03,2024-02-26,Diesel,Automatic,Hatchback,11295,1307317,1554638,247321,45,Female,Kolhapur,Rahul Sharma,Finance/Loan
+CAR_1018,Mahindra,Scorpio,2022,2022-04-03,2022-08-22,Petrol,Automatic,SUV,117476,1526081,1795991,269910,37,Male,Mumbai,Priya Kulkarni,Cash
+CAR_1019,Mahindra,Thar,2019,2019-04-24,2019-10-05,Diesel,Manual,SUV,75091,507450,574169,66719,43,Female,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1020,Tata,Altroz,2016,2016-05-01,2017-03-10,Diesel,Automatic,Hatchback,98179,1129903,1264709,134806,56,Female,Mumbai,Priya Kulkarni,Cash
+CAR_1021,Mahindra,Scorpio,2019,2019-06-03,2020-02-20,Electric,Manual,SUV,5301,515294,626034,110740,54,Female,Delhi,Rahul Sharma,Finance/Loan
+CAR_1022,Maruti Suzuki,Brezza,2016,2016-09-10,2017-05-20,CNG,Automatic,SUV,56885,1452590,1770137,317547,23,Male,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1023,Hyundai,i20,2022,2022-01-09,2022-12-03,Diesel,Manual,Hatchback,10801,1892785,2273973,381188,34,Female,Pune,Amit Deshmukh,Cash
+CAR_1024,Mahindra,Thar,2018,2018-01-08,2018-06-28,CNG,Manual,SUV,18403,1396161,1593559,197398,43,Male,Mumbai,Sneha Patil,UPI
+CAR_1025,Honda,City,2020,2020-10-26,2021-09-25,Petrol,Automatic,Sedan,100285,861243,969528,108285,29,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1026,Toyota,Glanza,2018,2018-06-13,2018-08-28,Diesel,Manual,Hatchback,110103,1543052,1875942,332890,63,Female,Kolhapur,Rahul Sharma,Finance/Loan
+CAR_1027,Tata,Harrier,2021,2021-10-05,2022-02-28,Petrol,Manual,SUV,105235,2301625,2780662,479037,55,Female,Mumbai,Priya Kulkarni,Cash
+CAR_1028,Toyota,Innova,2021,2021-05-22,2022-02-22,Petrol,Manual,Hatchback,74042,544356,597062,52706,50,Female,Bangalore,Rahul Sharma,UPI
+CAR_1029,Maruti Suzuki,Baleno,2018,2018-05-12,2019-01-14,Diesel,Automatic,Hatchback,96747,1904544,2180806,276262,58,Male,Pune,Sneha Patil,Bank Transfer
+CAR_1030,Toyota,Fortuner,2018,2018-10-26,2019-04-20,Diesel,Automatic,SUV,14540,1989228,2193742,204514,45,Female,Pune,Rahul Sharma,Finance/Loan
+CAR_1031,Tata,Harrier,2017,2017-12-01,2018-06-27,CNG,Manual,SUV,102856,1486880,1741445,254565,64,Female,Delhi,Rahul Sharma,Finance/Loan
+CAR_1032,Honda,Amaze,2017,2017-02-03,2017-10-05,Petrol,Manual,Hatchback,119585,465953,520235,54282,28,Female,Pune,Rahul Sharma,Bank Transfer
+CAR_1033,Toyota,Glanza,2022,2022-04-25,2023-02-25,Electric,Manual,Hatchback,43756,1091095,1301629,210534,56,Female,Bangalore,Sneha Patil,Cash
+CAR_1034,Honda,City,2015,2015-07-13,2016-05-16,Diesel,Manual,Sedan,116888,1034736,1190707,155971,46,Female,Delhi,Amit Deshmukh,UPI
+CAR_1035,Maruti Suzuki,Swift,2023,2023-03-12,2023-12-31,Petrol,Automatic,Hatchback,69895,825523,957838,132315,37,Male,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1036,Maruti Suzuki,Brezza,2019,2019-04-21,2019-10-18,Diesel,Manual,SUV,94780,1601193,1947682,346489,35,Male,Pune,Rahul Sharma,UPI
+CAR_1037,Toyota,Glanza,2016,2016-12-09,2017-03-22,CNG,Automatic,Hatchback,49261,925830,1055124,129294,61,Female,Mumbai,Sneha Patil,UPI
+CAR_1038,Hyundai,Creta,2019,2019-05-06,2019-10-18,Petrol,Manual,SUV,111995,1933584,2344692,411108,46,Male,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1039,Mahindra,XUV700,2017,2017-12-22,2018-07-06,Petrol,Automatic,SUV,99246,2279490,2542806,263316,49,Female,Pune,Priya Kulkarni,Finance/Loan
+CAR_1040,Toyota,Glanza,2023,2023-07-01,2024-02-05,Petrol,Manual,Hatchback,28960,2268599,2617899,349300,27,Female,Bangalore,Rahul Sharma,Finance/Loan
+CAR_1041,Toyota,Innova,2019,2019-06-21,2020-02-08,CNG,Manual,Hatchback,35354,1427512,1646254,218742,62,Male,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1042,Honda,Elevate,2021,2021-09-11,2021-10-22,Electric,Manual,Hatchback,95469,1734679,2024055,289376,29,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1043,Hyundai,Creta,2019,2019-09-04,2020-04-12,Petrol,Manual,SUV,43088,717428,856559,139131,49,Female,Delhi,Rahul Sharma,Bank Transfer
+CAR_1044,Tata,Nexon,2020,2020-02-19,2020-11-30,Diesel,Automatic,SUV,70545,878007,1056007,178000,26,Male,Mumbai,Sneha Patil,Cash
+CAR_1045,Hyundai,Verna,2015,2015-11-21,2016-09-27,Petrol,Automatic,Sedan,77474,2281548,2484358,202810,62,Male,Mumbai,Rahul Sharma,Finance/Loan
+CAR_1046,Honda,City,2019,2019-05-06,2020-02-18,Diesel,Automatic,Sedan,15916,1453385,1742536,289151,38,Male,Mumbai,Sneha Patil,Cash
+CAR_1047,Tata,Nexon,2018,2018-01-17,2018-11-30,Petrol,Manual,SUV,19489,908153,1046957,138804,24,Male,Pune,Priya Kulkarni,Cash
+CAR_1048,Honda,City,2023,2023-01-16,2023-10-27,Petrol,Automatic,Sedan,44764,1934026,2146411,212385,59,Female,Bangalore,Sneha Patil,Bank Transfer
+CAR_1049,Hyundai,Creta,2016,2016-11-19,2017-10-22,Diesel,Manual,SUV,47318,650875,730095,79220,63,Male,Mumbai,Rahul Sharma,Cash
+CAR_1050,Mahindra,Scorpio,2022,2022-01-10,2022-11-08,Petrol,Manual,SUV,97705,2249396,2538753,289357,64,Male,Kolhapur,Amit Deshmukh,UPI
+CAR_1051,Maruti Suzuki,Brezza,2021,2021-11-22,2021-12-29,Petrol,Automatic,SUV,46240,1705794,2051054,345260,48,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1052,Tata,Altroz,2019,2019-05-18,2019-09-16,Petrol,Manual,Hatchback,44749,1447172,1656301,209129,47,Female,Pune,Rahul Sharma,Bank Transfer
+CAR_1053,Hyundai,i20,2023,2023-10-25,2024-01-09,Diesel,Manual,Hatchback,60645,1829551,1991559,162008,47,Female,Mumbai,Priya Kulkarni,Cash
+CAR_1054,Tata,Nexon,2018,2018-08-22,2018-10-04,Diesel,Manual,SUV,49247,2120684,2308847,188163,28,Male,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1055,Toyota,Fortuner,2020,2020-03-19,2020-05-02,Petrol,Automatic,SUV,15267,2498214,2810718,312504,60,Female,Pune,Sneha Patil,Finance/Loan
+CAR_1056,Maruti Suzuki,Swift,2018,2018-09-04,2018-12-09,Diesel,Manual,Hatchback,11371,937198,1109981,172783,40,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1057,Mahindra,Scorpio,2016,2016-11-24,2017-11-03,Electric,Manual,SUV,63656,1344789,1494795,150006,27,Male,Bangalore,Sneha Patil,UPI
+CAR_1058,Honda,Amaze,2022,2022-07-09,2023-04-11,Petrol,Manual,Hatchback,9324,1195543,1309939,114396,23,Female,Bangalore,Amit Deshmukh,Finance/Loan
+CAR_1059,Honda,Amaze,2015,2015-08-06,2015-11-05,CNG,Manual,Hatchback,84239,644761,721614,76853,26,Female,Pune,Sneha Patil,Finance/Loan
+CAR_1060,Tata,Nexon,2018,2018-01-12,2018-03-29,Diesel,Automatic,SUV,47533,1188260,1367514,179254,57,Male,Kolhapur,Amit Deshmukh,Cash
+CAR_1061,Honda,Amaze,2022,2022-10-05,2023-03-21,Electric,Manual,Hatchback,39387,1056702,1242058,185356,38,Male,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1062,Honda,Elevate,2017,2017-01-05,2017-12-18,Diesel,Manual,Hatchback,72444,2112503,2574571,462068,55,Female,Kolhapur,Amit Deshmukh,Cash
+CAR_1063,Honda,City,2022,2022-11-09,2023-07-25,Petrol,Manual,Sedan,91740,922244,1026454,104210,35,Female,Bangalore,Rahul Sharma,Cash
+CAR_1064,Hyundai,i20,2016,2016-08-08,2017-06-28,Diesel,Automatic,Hatchback,78340,1551550,1784873,233323,46,Male,Mumbai,Amit Deshmukh,UPI
+CAR_1065,Hyundai,Creta,2019,2019-08-08,2019-10-15,Petrol,Automatic,SUV,101646,745266,839830,94564,36,Male,Delhi,Rahul Sharma,Finance/Loan
+CAR_1066,Honda,Elevate,2018,2018-06-25,2018-10-29,Diesel,Automatic,Hatchback,7336,1814397,2011506,197109,23,Female,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1067,Maruti Suzuki,Baleno,2020,2020-04-13,2020-12-14,Diesel,Manual,Hatchback,25103,526108,585082,58974,33,Male,Pune,Amit Deshmukh,UPI
+CAR_1068,Tata,Altroz,2018,2018-04-26,2019-03-20,Diesel,Automatic,Hatchback,19153,2049189,2278348,229159,44,Male,Pune,Sneha Patil,UPI
+CAR_1069,Mahindra,Scorpio,2022,2022-02-25,2022-07-15,Diesel,Manual,SUV,44915,1953731,2326135,372404,58,Female,Pune,Rahul Sharma,Finance/Loan
+CAR_1070,Hyundai,i20,2020,2020-03-14,2021-02-02,CNG,Automatic,Hatchback,39560,2402324,2650178,247854,57,Female,Mumbai,Rahul Sharma,UPI
+CAR_1071,Honda,Elevate,2017,2017-08-15,2018-02-09,Petrol,Automatic,Hatchback,62545,911411,1084843,173432,47,Male,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1072,Maruti Suzuki,Baleno,2020,2020-02-07,2020-10-03,Petrol,Automatic,Hatchback,11783,1650155,1993032,342877,45,Male,Bangalore,Sneha Patil,Cash
+CAR_1073,Maruti Suzuki,Swift,2020,2020-10-18,2021-01-04,Petrol,Automatic,Hatchback,54840,1604565,1752103,147538,61,Male,Mumbai,Priya Kulkarni,Cash
+CAR_1074,Honda,Elevate,2017,2017-11-24,2018-07-22,Petrol,Manual,Hatchback,32952,2190380,2481441,291061,37,Female,Kolhapur,Sneha Patil,Cash
+CAR_1075,Honda,Elevate,2016,2016-02-22,2016-07-13,Petrol,Manual,Hatchback,70155,1634816,1842128,207312,60,Male,Pune,Sneha Patil,UPI
+CAR_1076,Honda,Amaze,2015,2015-07-23,2016-06-04,Diesel,Automatic,Hatchback,115904,1656182,1847544,191362,44,Male,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1077,Maruti Suzuki,Brezza,2019,2019-03-19,2019-07-23,Diesel,Automatic,SUV,78506,434911,529905,94994,53,Female,Kolhapur,Priya Kulkarni,Finance/Loan
+CAR_1078,Mahindra,Thar,2020,2020-05-14,2021-01-21,Petrol,Manual,SUV,9425,2426580,2629719,203139,40,Female,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1079,Hyundai,i20,2019,2019-04-11,2019-12-30,CNG,Manual,Hatchback,81918,2485259,2973094,487835,58,Female,Mumbai,Sneha Patil,Cash
+CAR_1080,Mahindra,XUV700,2018,2018-10-22,2019-08-27,Petrol,Manual,SUV,72642,490093,561621,71528,53,Male,Pune,Amit Deshmukh,Cash
+CAR_1081,Honda,City,2022,2022-02-13,2022-12-20,Petrol,Manual,Sedan,56693,516739,567647,50908,50,Male,Pune,Amit Deshmukh,Cash
+CAR_1082,Tata,Harrier,2016,2016-05-10,2016-07-19,Petrol,Manual,SUV,102432,2094693,2505596,410903,44,Male,Pune,Sneha Patil,Cash
+CAR_1083,Tata,Nexon,2020,2020-11-08,2021-03-15,Diesel,Automatic,SUV,79182,624137,753968,129831,47,Male,Bangalore,Sneha Patil,Bank Transfer
+CAR_1084,Honda,Amaze,2020,2020-11-01,2021-10-03,Petrol,Automatic,Hatchback,58276,1108362,1241827,133465,57,Male,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1085,Tata,Harrier,2016,2016-07-15,2017-01-12,CNG,Automatic,SUV,26792,2031993,2203423,171430,41,Male,Kolhapur,Priya Kulkarni,UPI
+CAR_1086,Maruti Suzuki,Baleno,2016,2016-09-26,2017-01-06,Petrol,Automatic,Hatchback,39008,1503913,1721010,217097,56,Male,Pune,Rahul Sharma,Finance/Loan
+CAR_1087,Mahindra,XUV700,2020,2020-02-12,2020-12-12,Petrol,Automatic,SUV,11960,828988,986994,158006,33,Female,Kolhapur,Priya Kulkarni,UPI
+CAR_1088,Toyota,Innova,2021,2021-05-22,2022-01-04,Electric,Automatic,Hatchback,82454,1960473,2131472,170999,47,Male,Pune,Priya Kulkarni,UPI
+CAR_1089,Maruti Suzuki,Brezza,2019,2019-06-26,2020-04-20,Petrol,Automatic,SUV,16122,604615,735180,130565,44,Male,Pune,Amit Deshmukh,Bank Transfer
+CAR_1090,Mahindra,XUV700,2017,2017-02-27,2017-07-09,Petrol,Manual,SUV,40435,2331451,2674987,343536,24,Male,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1091,Mahindra,XUV700,2022,2022-01-04,2022-08-31,Diesel,Manual,SUV,79859,523618,629291,105673,51,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1092,Tata,Altroz,2021,2021-04-17,2022-03-30,Petrol,Manual,Hatchback,90431,1270123,1546719,276596,31,Female,Mumbai,Amit Deshmukh,UPI
+CAR_1093,Mahindra,Thar,2015,2015-01-03,2015-06-23,Petrol,Automatic,SUV,37913,1299005,1510061,211056,22,Male,Mumbai,Amit Deshmukh,Cash
+CAR_1094,Maruti Suzuki,Brezza,2019,2019-05-11,2019-12-24,Electric,Automatic,SUV,111506,2133693,2487624,353931,46,Male,Bangalore,Priya Kulkarni,UPI
+CAR_1095,Mahindra,Thar,2020,2020-05-19,2021-05-13,Petrol,Manual,SUV,87856,1426553,1696373,269820,27,Male,Delhi,Sneha Patil,UPI
+CAR_1096,Maruti Suzuki,Swift,2017,2017-04-26,2018-01-21,Petrol,Manual,Hatchback,30425,1439504,1585679,146175,53,Male,Delhi,Priya Kulkarni,Cash
+CAR_1097,Maruti Suzuki,Swift,2018,2018-05-02,2019-02-22,CNG,Manual,Hatchback,102820,727304,790006,62702,55,Female,Pune,Rahul Sharma,UPI
+CAR_1098,Maruti Suzuki,Swift,2016,2016-08-15,2016-10-21,Petrol,Automatic,Hatchback,117217,2014737,2198776,184039,34,Female,Delhi,Rahul Sharma,Cash
+CAR_1099,Hyundai,i20,2017,2017-10-03,2017-12-27,Diesel,Manual,Hatchback,97108,2232684,2640701,408017,45,Male,Bangalore,Rahul Sharma,UPI
+CAR_1100,Tata,Nexon,2023,2023-05-10,2023-12-16,Diesel,Manual,SUV,68620,448874,545195,96321,52,Male,Pune,Sneha Patil,Finance/Loan
+CAR_1101,Tata,Nexon,2021,2021-02-04,2021-11-18,CNG,Manual,SUV,38062,888972,1036870,147898,62,Male,Pune,Priya Kulkarni,Finance/Loan
+CAR_1102,Toyota,Glanza,2020,2020-03-07,2020-06-18,Petrol,Automatic,Hatchback,6435,2064221,2447170,382949,43,Female,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1103,Hyundai,Verna,2015,2015-12-22,2016-07-31,Petrol,Manual,Sedan,72889,1563950,1901204,337254,57,Male,Kolhapur,Priya Kulkarni,Cash
+CAR_1104,Mahindra,XUV700,2015,2015-06-15,2015-10-01,CNG,Manual,SUV,101214,1212461,1388989,176528,25,Male,Kolhapur,Rahul Sharma,Cash
+CAR_1105,Toyota,Innova,2018,2018-02-15,2018-06-08,Diesel,Manual,Hatchback,49413,624695,712481,87786,42,Male,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1106,Honda,Elevate,2023,2023-05-03,2024-02-13,Petrol,Automatic,Hatchback,81961,1319484,1462054,142570,46,Female,Bangalore,Sneha Patil,UPI
+CAR_1107,Mahindra,XUV700,2022,2022-12-14,2023-06-06,Petrol,Manual,SUV,87970,643373,742613,99240,28,Male,Delhi,Priya Kulkarni,Finance/Loan
+CAR_1108,Toyota,Fortuner,2017,2017-04-14,2017-05-28,Petrol,Manual,SUV,16536,479083,534012,54929,30,Female,Mumbai,Priya Kulkarni,UPI
+CAR_1109,Honda,Amaze,2019,2019-05-02,2019-08-11,Petrol,Manual,Hatchback,107471,1178513,1385063,206550,39,Female,Kolhapur,Rahul Sharma,Cash
+CAR_1110,Maruti Suzuki,Baleno,2023,2023-08-11,2024-04-10,Diesel,Manual,Hatchback,44499,1836536,2130247,293711,36,Female,Bangalore,Priya Kulkarni,Cash
+CAR_1111,Hyundai,Creta,2015,2015-02-01,2015-12-16,CNG,Manual,SUV,93652,2347763,2653188,305425,60,Female,Pune,Sneha Patil,Bank Transfer
+CAR_1112,Hyundai,Verna,2016,2016-10-23,2017-09-22,Electric,Manual,Sedan,54786,1843717,2144738,301021,30,Male,Mumbai,Sneha Patil,Finance/Loan
+CAR_1113,Hyundai,Creta,2018,2018-11-07,2019-02-28,Diesel,Manual,SUV,86941,1129497,1295901,166404,62,Female,Pune,Sneha Patil,UPI
+CAR_1114,Hyundai,Creta,2021,2021-12-13,2022-02-05,CNG,Manual,SUV,25022,2358637,2658574,299937,29,Male,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1115,Tata,Harrier,2020,2020-02-19,2020-08-16,Petrol,Manual,SUV,96194,2426395,2688290,261895,56,Male,Delhi,Sneha Patil,UPI
+CAR_1116,Maruti Suzuki,Brezza,2015,2015-05-26,2015-07-18,Petrol,Manual,SUV,30963,1026045,1250000,223955,45,Female,Mumbai,Amit Deshmukh,Finance/Loan
+CAR_1117,Maruti Suzuki,Baleno,2019,2019-02-04,2019-05-10,Diesel,Automatic,Hatchback,50350,2378281,2898883,520602,33,Male,Delhi,Sneha Patil,Finance/Loan
+CAR_1118,Toyota,Glanza,2015,2015-03-26,2015-05-02,Petrol,Manual,Hatchback,16561,1424939,1613314,188375,23,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1119,Toyota,Innova,2020,2020-12-15,2021-01-27,Diesel,Manual,Hatchback,111625,2280901,2671613,390712,46,Male,Bangalore,Sneha Patil,UPI
+CAR_1120,Toyota,Innova,2015,2015-08-12,2016-02-21,Electric,Manual,Hatchback,57233,1493314,1705190,211876,37,Female,Delhi,Sneha Patil,Finance/Loan
+CAR_1121,Honda,City,2015,2015-05-20,2016-03-08,Diesel,Automatic,Sedan,87495,2342811,2542263,199452,58,Male,Delhi,Priya Kulkarni,Cash
+CAR_1122,Maruti Suzuki,Swift,2022,2022-12-24,2023-06-27,CNG,Manual,Hatchback,88194,434707,485900,51193,23,Male,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1123,Toyota,Innova,2021,2021-03-06,2021-12-05,Petrol,Manual,Hatchback,69178,1697076,1946861,249785,64,Female,Pune,Rahul Sharma,Bank Transfer
+CAR_1124,Toyota,Innova,2021,2021-08-15,2022-03-10,Petrol,Manual,Hatchback,44062,1743276,1917770,174494,63,Female,Pune,Rahul Sharma,Cash
+CAR_1125,Toyota,Fortuner,2019,2019-06-15,2020-04-29,Diesel,Automatic,SUV,93009,848625,945521,96896,47,Female,Mumbai,Priya Kulkarni,UPI
+CAR_1126,Maruti Suzuki,Baleno,2018,2018-01-01,2018-06-26,CNG,Automatic,Hatchback,47287,558056,611028,52972,49,Female,Pune,Priya Kulkarni,Bank Transfer
+CAR_1127,Maruti Suzuki,Swift,2023,2023-09-16,2024-07-10,Diesel,Manual,Hatchback,71024,919777,1045399,125622,25,Female,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1128,Hyundai,i20,2023,2023-07-19,2024-07-13,Petrol,Manual,Hatchback,96736,1500500,1688725,188225,33,Female,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1129,Toyota,Innova,2015,2015-01-17,2015-12-03,Petrol,Manual,Hatchback,110314,2442823,2866774,423951,31,Female,Mumbai,Amit Deshmukh,Cash
+CAR_1130,Hyundai,Creta,2020,2020-12-21,2021-08-28,Petrol,Manual,SUV,86889,1502127,1744306,242179,57,Male,Kolhapur,Priya Kulkarni,UPI
+CAR_1131,Honda,Amaze,2016,2016-12-27,2017-02-15,Petrol,Manual,Hatchback,64182,1766808,2070093,303285,36,Female,Delhi,Rahul Sharma,Bank Transfer
+CAR_1132,Tata,Harrier,2018,2018-05-20,2018-07-15,CNG,Manual,SUV,119793,1818897,2066242,247345,34,Female,Pune,Rahul Sharma,Bank Transfer
+CAR_1133,Tata,Altroz,2021,2021-07-24,2022-04-20,Diesel,Manual,Hatchback,29611,1032259,1127418,95159,22,Female,Delhi,Sneha Patil,UPI
+CAR_1134,Tata,Nexon,2021,2021-06-22,2022-04-24,CNG,Manual,SUV,42384,921998,1074623,152625,63,Female,Mumbai,Sneha Patil,UPI
+CAR_1135,Toyota,Fortuner,2022,2022-03-04,2022-06-01,Diesel,Automatic,SUV,108314,1645129,1880789,235660,26,Male,Mumbai,Amit Deshmukh,Finance/Loan
+CAR_1136,Hyundai,i20,2021,2021-05-17,2021-11-12,Petrol,Manual,Hatchback,38755,964678,1115686,151008,31,Male,Delhi,Rahul Sharma,Cash
+CAR_1137,Honda,City,2016,2016-03-07,2016-06-29,Diesel,Manual,Sedan,93700,629104,680825,51721,45,Female,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1138,Honda,Amaze,2021,2021-04-08,2021-12-22,CNG,Manual,Hatchback,36367,803322,906226,102904,60,Female,Delhi,Rahul Sharma,Finance/Loan
+CAR_1139,Hyundai,i20,2019,2019-08-06,2020-03-22,Diesel,Manual,Hatchback,105732,1113936,1358297,244361,44,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1140,Mahindra,Scorpio,2018,2018-05-13,2019-03-25,Diesel,Manual,SUV,105969,1154296,1379444,225148,33,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1141,Tata,Harrier,2021,2021-12-19,2022-05-01,Petrol,Automatic,SUV,67711,1415416,1661724,246308,41,Female,Pune,Priya Kulkarni,UPI
+CAR_1142,Maruti Suzuki,Swift,2020,2020-04-02,2020-09-20,Petrol,Manual,Hatchback,89328,2265690,2522772,257082,22,Male,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1143,Hyundai,Creta,2021,2021-06-03,2021-11-22,Electric,Automatic,SUV,66929,1157771,1401230,243459,63,Female,Pune,Rahul Sharma,UPI
+CAR_1144,Honda,Amaze,2020,2020-03-16,2020-04-21,Petrol,Manual,Hatchback,117020,2259234,2494857,235623,23,Male,Pune,Sneha Patil,Finance/Loan
+CAR_1145,Hyundai,Creta,2023,2023-02-25,2023-12-04,CNG,Automatic,SUV,10901,1093045,1307398,214353,24,Male,Mumbai,Sneha Patil,Cash
+CAR_1146,Toyota,Innova,2016,2016-08-21,2016-10-14,Petrol,Manual,Hatchback,94099,407967,447574,39607,49,Male,Bangalore,Sneha Patil,Cash
+CAR_1147,Mahindra,XUV700,2020,2020-11-02,2021-01-30,Petrol,Manual,SUV,84364,2496594,2763353,266759,46,Female,Kolhapur,Sneha Patil,Cash
+CAR_1148,Maruti Suzuki,Brezza,2017,2017-09-03,2018-02-28,Petrol,Manual,SUV,14074,537478,632559,95081,54,Female,Bangalore,Amit Deshmukh,Finance/Loan
+CAR_1149,Maruti Suzuki,Swift,2021,2021-12-20,2022-08-27,Diesel,Manual,Hatchback,62009,835684,1006267,170583,56,Male,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1150,Honda,Elevate,2019,2019-06-05,2020-01-03,Petrol,Manual,Hatchback,108141,604366,701971,97605,44,Female,Delhi,Rahul Sharma,Cash
+CAR_1151,Toyota,Fortuner,2016,2016-05-21,2016-12-09,Petrol,Manual,SUV,58744,863547,1010740,147193,42,Female,Delhi,Sneha Patil,Bank Transfer
+CAR_1152,Mahindra,Scorpio,2018,2018-12-18,2019-09-05,CNG,Manual,SUV,35620,2385957,2707906,321949,63,Male,Mumbai,Rahul Sharma,Finance/Loan
+CAR_1153,Maruti Suzuki,Swift,2023,2023-01-02,2023-04-01,Petrol,Manual,Hatchback,95353,1862073,2077008,214935,61,Male,Bangalore,Amit Deshmukh,UPI
+CAR_1154,Hyundai,Verna,2020,2020-08-17,2020-12-03,CNG,Manual,Sedan,61492,1365188,1615346,250158,22,Male,Delhi,Priya Kulkarni,Cash
+CAR_1155,Maruti Suzuki,Brezza,2015,2015-03-24,2015-09-21,Petrol,Manual,SUV,99439,541214,606979,65765,32,Female,Kolhapur,Amit Deshmukh,UPI
+CAR_1156,Mahindra,XUV700,2019,2019-05-22,2019-06-28,Petrol,Manual,SUV,83815,439279,533943,94664,52,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1157,Hyundai,Verna,2015,2015-04-04,2015-07-20,Petrol,Automatic,Sedan,66558,1717630,2087931,370301,42,Female,Bangalore,Amit Deshmukh,Finance/Loan
+CAR_1158,Hyundai,Creta,2019,2019-12-02,2020-01-11,Petrol,Manual,SUV,94489,426806,466627,39821,61,Male,Bangalore,Sneha Patil,Cash
+CAR_1159,Hyundai,Creta,2018,2018-04-21,2018-11-08,Petrol,Automatic,SUV,66332,579830,697592,117762,33,Male,Pune,Rahul Sharma,Cash
+CAR_1160,Honda,City,2022,2022-08-14,2023-01-25,Petrol,Manual,Sedan,99463,851157,1009000,157843,46,Female,Bangalore,Rahul Sharma,Cash
+CAR_1161,Hyundai,Creta,2019,2019-04-27,2019-07-15,Petrol,Manual,SUV,25567,2030668,2310653,279985,58,Male,Mumbai,Priya Kulkarni,UPI
+CAR_1162,Honda,Elevate,2021,2021-07-12,2022-05-18,Diesel,Manual,Hatchback,46321,2225977,2406963,180986,22,Female,Delhi,Amit Deshmukh,Cash
+CAR_1163,Mahindra,XUV700,2016,2016-11-25,2017-01-03,Diesel,Automatic,SUV,84578,2049729,2315689,265960,34,Male,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1164,Hyundai,Creta,2020,2020-12-17,2021-01-29,Diesel,Automatic,SUV,20379,2140687,2356563,215876,27,Female,Kolhapur,Rahul Sharma,Bank Transfer
+CAR_1165,Mahindra,XUV700,2018,2018-04-10,2018-06-02,Petrol,Manual,SUV,78445,1712743,1892533,179790,31,Female,Bangalore,Priya Kulkarni,Cash
+CAR_1166,Toyota,Innova,2021,2021-07-04,2022-03-11,Diesel,Manual,Hatchback,28225,886275,963728,77453,45,Female,Pune,Amit Deshmukh,UPI
+CAR_1167,Mahindra,XUV700,2015,2015-03-22,2015-09-19,Petrol,Automatic,SUV,42861,2185516,2405473,219957,54,Female,Bangalore,Rahul Sharma,UPI
+CAR_1168,Mahindra,XUV700,2023,2023-12-22,2024-11-16,Petrol,Manual,SUV,54811,1139290,1339836,200546,35,Female,Kolhapur,Amit Deshmukh,Cash
+CAR_1169,Hyundai,i20,2023,2023-04-10,2023-06-28,Petrol,Automatic,Hatchback,113381,2139461,2465795,326334,40,Female,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1170,Tata,Nexon,2019,2019-04-17,2019-07-29,CNG,Automatic,SUV,31201,560381,662320,101939,56,Male,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1171,Maruti Suzuki,Baleno,2023,2023-04-24,2023-06-28,Petrol,Manual,Hatchback,42481,1064917,1189127,124210,56,Male,Bangalore,Sneha Patil,Finance/Loan
+CAR_1172,Hyundai,Creta,2023,2023-06-12,2024-06-04,Petrol,Manual,SUV,7643,1205113,1396339,191226,42,Female,Pune,Rahul Sharma,UPI
+CAR_1173,Honda,Elevate,2016,2016-08-11,2017-02-04,Petrol,Automatic,Hatchback,70428,2084351,2433312,348961,58,Female,Delhi,Sneha Patil,Cash
+CAR_1174,Tata,Altroz,2019,2019-08-17,2020-02-23,Petrol,Manual,Hatchback,93553,529350,622370,93020,54,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1175,Mahindra,Scorpio,2023,2023-07-22,2024-02-13,Diesel,Manual,SUV,83021,1426657,1637598,210941,42,Male,Pune,Sneha Patil,Finance/Loan
+CAR_1176,Maruti Suzuki,Baleno,2016,2016-03-07,2016-06-30,Petrol,Automatic,Hatchback,35651,1497353,1822171,324818,53,Male,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1177,Mahindra,Scorpio,2018,2018-06-15,2019-03-03,CNG,Automatic,SUV,19939,1898492,2170305,271813,49,Female,Mumbai,Amit Deshmukh,Bank Transfer
+CAR_1178,Maruti Suzuki,Baleno,2017,2017-08-12,2017-12-16,Petrol,Automatic,Hatchback,69166,1350162,1541547,191385,32,Female,Bangalore,Sneha Patil,Finance/Loan
+CAR_1179,Mahindra,Thar,2018,2018-05-21,2018-08-30,Diesel,Manual,SUV,92983,2433901,2810240,376339,63,Female,Bangalore,Sneha Patil,Finance/Loan
+CAR_1180,Hyundai,Verna,2017,2017-03-27,2017-08-17,Petrol,Manual,Sedan,90120,1175158,1299479,124321,58,Female,Bangalore,Priya Kulkarni,UPI
+CAR_1181,Toyota,Fortuner,2020,2020-06-19,2020-08-19,Petrol,Automatic,SUV,115454,1816207,2212827,396620,42,Female,Delhi,Sneha Patil,Finance/Loan
+CAR_1182,Mahindra,Scorpio,2021,2021-11-05,2021-12-29,Petrol,Manual,SUV,97051,1710077,1937626,227549,56,Male,Bangalore,Rahul Sharma,Cash
+CAR_1183,Mahindra,Scorpio,2016,2016-06-19,2016-09-16,Petrol,Manual,SUV,57142,1691627,1935723,244096,42,Female,Pune,Sneha Patil,UPI
+CAR_1184,Mahindra,Scorpio,2019,2019-12-24,2020-08-27,Petrol,Manual,SUV,23099,771233,870499,99266,39,Female,Kolhapur,Rahul Sharma,UPI
+CAR_1185,Honda,City,2019,2019-12-11,2020-10-06,Petrol,Manual,Sedan,32516,2102159,2301628,199469,56,Female,Bangalore,Amit Deshmukh,UPI
+CAR_1186,Honda,City,2018,2018-12-01,2019-09-03,Petrol,Manual,Sedan,103745,512782,569070,56288,56,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1187,Mahindra,Scorpio,2018,2018-12-17,2019-02-23,CNG,Manual,SUV,61526,2023154,2441961,418807,48,Male,Kolhapur,Amit Deshmukh,Bank Transfer
+CAR_1188,Honda,Amaze,2018,2018-05-08,2018-12-13,Petrol,Automatic,Hatchback,17109,2212336,2402339,190003,45,Female,Pune,Sneha Patil,UPI
+CAR_1189,Honda,City,2017,2017-03-03,2018-01-01,CNG,Manual,Sedan,53454,1476941,1745351,268410,40,Male,Bangalore,Sneha Patil,Finance/Loan
+CAR_1190,Honda,City,2018,2018-08-17,2019-06-28,Petrol,Manual,Sedan,69307,2478808,2963253,484445,56,Male,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1191,Maruti Suzuki,Brezza,2018,2018-12-08,2019-01-08,Diesel,Manual,SUV,68095,1257342,1371830,114488,50,Female,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1192,Mahindra,XUV700,2016,2016-05-21,2017-05-10,Petrol,Manual,SUV,12851,1521268,1662958,141690,30,Female,Kolhapur,Rahul Sharma,Bank Transfer
+CAR_1193,Maruti Suzuki,Swift,2021,2021-08-12,2021-11-25,Petrol,Manual,Hatchback,116250,488668,539431,50763,42,Male,Bangalore,Rahul Sharma,Cash
+CAR_1194,Tata,Altroz,2021,2021-12-04,2022-03-19,Petrol,Automatic,Hatchback,5193,762455,887567,125112,62,Male,Mumbai,Sneha Patil,Cash
+CAR_1195,Toyota,Fortuner,2022,2022-03-10,2022-07-10,Petrol,Manual,SUV,78869,2240418,2560003,319585,41,Female,Mumbai,Rahul Sharma,Cash
+CAR_1196,Honda,City,2015,2015-08-11,2015-12-08,Petrol,Manual,Sedan,22087,1742057,1952999,210942,62,Male,Delhi,Rahul Sharma,Cash
+CAR_1197,Maruti Suzuki,Swift,2017,2017-11-07,2018-06-07,CNG,Manual,Hatchback,85650,2125322,2334471,209149,22,Female,Bangalore,Amit Deshmukh,Finance/Loan
+CAR_1198,Toyota,Innova,2015,2015-10-07,2016-07-12,Diesel,Automatic,Hatchback,84190,2487342,2707057,219715,41,Female,Pune,Sneha Patil,Finance/Loan
+CAR_1199,Honda,City,2018,2018-02-05,2018-07-31,Diesel,Manual,Sedan,100344,837625,942287,104662,62,Male,Pune,Amit Deshmukh,Cash
+CAR_1200,Maruti Suzuki,Baleno,2016,2016-03-11,2016-12-31,Diesel,Manual,Hatchback,69200,1554424,1712361,157937,24,Female,Kolhapur,Rahul Sharma,Bank Transfer
+CAR_1201,Toyota,Fortuner,2017,2017-08-02,2017-11-20,Diesel,Manual,SUV,7282,2152374,2498492,346118,47,Male,Delhi,Sneha Patil,Cash
+CAR_1202,Maruti Suzuki,Brezza,2022,2022-09-06,2023-07-16,Petrol,Automatic,SUV,105962,2402348,2687154,284806,59,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1203,Tata,Altroz,2023,2023-07-08,2023-10-20,Diesel,Manual,Hatchback,71677,2101243,2471853,370610,60,Female,Bangalore,Rahul Sharma,UPI
+CAR_1204,Mahindra,Thar,2022,2022-01-01,2022-03-18,Petrol,Manual,SUV,45379,417297,487889,70592,64,Male,Kolhapur,Sneha Patil,UPI
+CAR_1205,Maruti Suzuki,Swift,2020,2020-05-08,2020-11-29,Petrol,Automatic,Hatchback,100040,1978608,2175830,197222,26,Female,Kolhapur,Amit Deshmukh,UPI
+CAR_1206,Toyota,Fortuner,2020,2020-11-27,2021-08-17,Petrol,Manual,SUV,58161,1601700,1944189,342489,58,Male,Bangalore,Sneha Patil,Finance/Loan
+CAR_1207,Maruti Suzuki,Swift,2018,2018-01-13,2018-09-23,Petrol,Manual,Hatchback,8236,1857640,2150254,292614,55,Male,Delhi,Amit Deshmukh,UPI
+CAR_1208,Tata,Altroz,2016,2016-03-26,2016-05-15,Electric,Manual,Hatchback,80250,1271808,1476906,205098,45,Male,Kolhapur,Rahul Sharma,UPI
+CAR_1209,Hyundai,Verna,2018,2018-03-17,2018-07-23,CNG,Manual,Sedan,51840,1002276,1185005,182729,29,Female,Delhi,Rahul Sharma,Cash
+CAR_1210,Mahindra,Scorpio,2017,2017-11-21,2018-09-13,Petrol,Manual,SUV,81021,2421770,2801758,379988,26,Male,Bangalore,Rahul Sharma,Bank Transfer
+CAR_1211,Hyundai,Creta,2015,2015-03-19,2015-09-18,Electric,Manual,SUV,100071,1816953,2087312,270359,32,Male,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1212,Maruti Suzuki,Brezza,2016,2016-01-19,2016-09-23,Petrol,Automatic,SUV,11142,1631619,1946395,314776,56,Female,Mumbai,Priya Kulkarni,Finance/Loan
+CAR_1213,Toyota,Innova,2015,2015-01-01,2015-12-24,Petrol,Automatic,Hatchback,73026,581948,703978,122030,37,Female,Delhi,Sneha Patil,UPI
+CAR_1214,Tata,Harrier,2019,2019-12-02,2020-06-17,Petrol,Manual,SUV,91072,2226525,2407409,180884,40,Female,Pune,Rahul Sharma,Finance/Loan
+CAR_1215,Honda,Elevate,2017,2017-01-04,2017-02-27,Diesel,Manual,Hatchback,91156,1980932,2367351,386419,30,Male,Mumbai,Priya Kulkarni,UPI
+CAR_1216,Hyundai,Verna,2022,2022-07-09,2023-05-24,Petrol,Manual,Sedan,13605,762462,830505,68043,56,Female,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1217,Toyota,Innova,2016,2016-03-27,2016-05-11,Diesel,Manual,Hatchback,17449,587771,692977,105206,23,Female,Pune,Rahul Sharma,Finance/Loan
+CAR_1218,Mahindra,Scorpio,2021,2021-03-08,2021-11-07,CNG,Manual,SUV,63394,1287516,1495650,208134,60,Male,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1219,Toyota,Innova,2019,2019-03-21,2020-01-19,Diesel,Manual,Hatchback,81112,678710,780809,102099,31,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1220,Mahindra,Scorpio,2016,2016-12-14,2017-03-06,CNG,Manual,SUV,89227,1679180,2029038,349858,29,Female,Bangalore,Amit Deshmukh,UPI
+CAR_1221,Honda,Amaze,2016,2016-08-02,2017-01-05,Petrol,Automatic,Hatchback,94678,1298488,1402391,103903,50,Female,Pune,Priya Kulkarni,Bank Transfer
+CAR_1222,Honda,City,2021,2021-08-18,2022-06-07,Petrol,Manual,Sedan,60103,1359131,1487249,128118,22,Male,Kolhapur,Rahul Sharma,UPI
+CAR_1223,Hyundai,Creta,2017,2017-03-17,2017-10-30,Petrol,Automatic,SUV,114988,1686614,1938145,251531,54,Female,Kolhapur,Rahul Sharma,Finance/Loan
+CAR_1224,Hyundai,Verna,2021,2021-05-21,2022-02-09,Diesel,Automatic,Sedan,94963,1804355,2126171,321816,51,Male,Delhi,Priya Kulkarni,UPI
+CAR_1225,Tata,Nexon,2015,2015-05-22,2016-04-19,Petrol,Automatic,SUV,71914,1571682,1778788,207106,28,Male,Delhi,Sneha Patil,Cash
+CAR_1226,Toyota,Glanza,2016,2016-09-09,2017-03-23,Petrol,Automatic,Hatchback,56168,1869539,2196509,326970,55,Male,Bangalore,Sneha Patil,UPI
+CAR_1227,Mahindra,Scorpio,2019,2019-12-08,2020-11-11,Petrol,Automatic,SUV,114819,564074,638244,74170,31,Male,Bangalore,Amit Deshmukh,Cash
+CAR_1228,Hyundai,Creta,2019,2019-06-24,2020-04-06,Petrol,Manual,SUV,36881,1137954,1307510,169556,59,Male,Bangalore,Sneha Patil,Finance/Loan
+CAR_1229,Toyota,Glanza,2023,2023-04-26,2023-11-29,Petrol,Automatic,Hatchback,107518,2378030,2641450,263420,49,Female,Bangalore,Amit Deshmukh,Bank Transfer
+CAR_1230,Toyota,Fortuner,2023,2023-02-05,2023-07-18,Petrol,Manual,SUV,34336,2042425,2269658,227233,33,Female,Kolhapur,Rahul Sharma,Finance/Loan
+CAR_1231,Toyota,Glanza,2018,2018-03-09,2018-09-14,CNG,Automatic,Hatchback,52832,952439,1089703,137264,43,Male,Bangalore,Priya Kulkarni,UPI
+CAR_1232,Toyota,Innova,2016,2016-02-13,2016-05-31,Petrol,Automatic,Hatchback,112011,1866760,2078604,211844,53,Female,Pune,Amit Deshmukh,UPI
+CAR_1233,Mahindra,Scorpio,2023,2023-01-27,2023-05-26,Petrol,Manual,SUV,37793,708617,796570,87953,40,Male,Delhi,Rahul Sharma,Finance/Loan
+CAR_1234,Mahindra,XUV700,2015,2015-01-15,2015-04-06,Petrol,Automatic,SUV,113088,752414,887157,134743,47,Male,Pune,Rahul Sharma,Finance/Loan
+CAR_1235,Mahindra,Thar,2022,2022-06-01,2023-02-11,Petrol,Manual,SUV,109724,2101421,2291964,190543,59,Female,Pune,Sneha Patil,Bank Transfer
+CAR_1236,Honda,City,2017,2017-06-08,2018-02-27,Diesel,Manual,Sedan,77010,1147852,1324406,176554,52,Female,Bangalore,Sneha Patil,Cash
+CAR_1237,Mahindra,XUV700,2022,2022-11-26,2023-11-22,Petrol,Manual,SUV,110490,1749590,1907457,157867,39,Female,Bangalore,Priya Kulkarni,UPI
+CAR_1238,Toyota,Glanza,2016,2016-01-11,2016-12-04,Diesel,Automatic,Hatchback,75902,1326215,1462329,136114,29,Female,Bangalore,Amit Deshmukh,Bank Transfer
+CAR_1239,Maruti Suzuki,Brezza,2021,2021-01-27,2021-05-20,Diesel,Automatic,SUV,111581,2050824,2454748,403924,57,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1240,Hyundai,Verna,2019,2019-08-10,2020-05-17,Petrol,Manual,Sedan,79671,2206684,2531782,325098,34,Male,Pune,Priya Kulkarni,Cash
+CAR_1241,Honda,Elevate,2016,2016-03-01,2016-09-06,Diesel,Manual,Hatchback,33482,1940724,2104844,164120,56,Male,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1242,Maruti Suzuki,Baleno,2018,2018-04-21,2018-08-19,Petrol,Automatic,Hatchback,68232,1201849,1445619,243770,41,Female,Pune,Amit Deshmukh,UPI
+CAR_1243,Maruti Suzuki,Swift,2019,2019-10-01,2020-08-03,CNG,Manual,Hatchback,89700,2160511,2465415,304904,42,Male,Bangalore,Sneha Patil,UPI
+CAR_1244,Tata,Nexon,2021,2021-07-07,2022-01-06,CNG,Manual,SUV,7179,1325779,1524189,198410,50,Female,Mumbai,Priya Kulkarni,UPI
+CAR_1245,Honda,Amaze,2023,2023-11-04,2024-08-30,CNG,Manual,Hatchback,96502,1824663,2181830,357167,57,Female,Delhi,Priya Kulkarni,Finance/Loan
+CAR_1246,Hyundai,Verna,2016,2016-09-17,2017-04-15,Petrol,Manual,Sedan,21964,1355230,1487908,132678,62,Male,Delhi,Rahul Sharma,Finance/Loan
+CAR_1247,Honda,Amaze,2019,2019-09-10,2020-03-25,Petrol,Manual,Hatchback,82116,1014741,1199533,184792,49,Female,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1248,Maruti Suzuki,Swift,2021,2021-10-18,2021-12-16,Petrol,Automatic,Hatchback,35106,1931064,2185832,254768,57,Male,Delhi,Sneha Patil,Cash
+CAR_1249,Maruti Suzuki,Brezza,2021,2021-10-10,2021-12-10,Petrol,Automatic,SUV,13712,1654352,2007243,352891,31,Female,Mumbai,Rahul Sharma,Finance/Loan
+CAR_1250,Mahindra,XUV700,2023,2023-11-21,2024-03-31,Diesel,Automatic,SUV,7610,1001891,1218438,216547,45,Female,Kolhapur,Sneha Patil,Cash
+CAR_1251,Hyundai,Verna,2023,2023-01-02,2023-10-09,Petrol,Manual,Sedan,67021,860115,1046754,186639,24,Male,Mumbai,Priya Kulkarni,Finance/Loan
+CAR_1252,Toyota,Glanza,2015,2015-01-03,2015-10-30,Diesel,Manual,Hatchback,78155,2276336,2466471,190135,56,Female,Pune,Rahul Sharma,Bank Transfer
+CAR_1253,Hyundai,i20,2021,2021-04-24,2022-04-03,Diesel,Automatic,Hatchback,87912,1423920,1645628,221708,22,Male,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1254,Toyota,Fortuner,2017,2017-03-12,2017-06-29,Petrol,Automatic,SUV,74267,2094814,2353251,258437,44,Female,Kolhapur,Rahul Sharma,Cash
+CAR_1255,Honda,Elevate,2017,2017-02-16,2017-06-08,Diesel,Manual,Hatchback,21199,734971,813001,78030,33,Female,Delhi,Amit Deshmukh,Cash
+CAR_1256,Tata,Nexon,2020,2020-01-05,2020-03-31,CNG,Manual,SUV,5887,2057888,2304847,246959,62,Male,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1257,Honda,Elevate,2021,2021-04-01,2021-09-18,Diesel,Automatic,Hatchback,50270,1968146,2341970,373824,50,Female,Bangalore,Rahul Sharma,Finance/Loan
+CAR_1258,Hyundai,Verna,2023,2023-09-08,2024-05-12,Petrol,Automatic,Sedan,15561,495556,603118,107562,62,Male,Pune,Sneha Patil,Finance/Loan
+CAR_1259,Maruti Suzuki,Swift,2015,2015-12-07,2016-09-27,Diesel,Automatic,Hatchback,108937,1913083,2213331,300248,59,Female,Pune,Amit Deshmukh,UPI
+CAR_1260,Tata,Nexon,2020,2020-04-27,2020-07-06,Petrol,Manual,SUV,99803,1681506,1968691,287185,51,Male,Pune,Sneha Patil,UPI
+CAR_1261,Honda,Elevate,2023,2023-01-16,2024-01-06,Petrol,Manual,Hatchback,56707,680833,817852,137019,22,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1262,Toyota,Glanza,2020,2020-03-16,2020-12-18,Diesel,Automatic,Hatchback,60276,1138096,1315500,177404,40,Male,Pune,Priya Kulkarni,Cash
+CAR_1263,Toyota,Fortuner,2020,2020-06-17,2021-06-11,Petrol,Manual,SUV,24874,2154867,2553029,398162,46,Female,Bangalore,Rahul Sharma,UPI
+CAR_1264,Maruti Suzuki,Brezza,2017,2017-08-17,2017-10-28,Diesel,Manual,SUV,15451,621552,742488,120936,53,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1265,Toyota,Glanza,2016,2016-08-11,2016-11-09,Petrol,Manual,Hatchback,88104,486346,565752,79406,51,Female,Pune,Sneha Patil,Bank Transfer
+CAR_1266,Tata,Altroz,2022,2022-03-10,2023-02-23,Petrol,Automatic,Hatchback,101007,826674,982009,155335,38,Male,Delhi,Sneha Patil,UPI
+CAR_1267,Maruti Suzuki,Brezza,2015,2015-12-01,2016-06-29,CNG,Manual,SUV,90178,1447380,1646521,199141,64,Male,Bangalore,Sneha Patil,Bank Transfer
+CAR_1268,Mahindra,Scorpio,2019,2019-12-18,2020-03-19,Petrol,Manual,SUV,12352,1537411,1787444,250033,28,Male,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1269,Mahindra,XUV700,2015,2015-07-03,2016-03-30,Petrol,Automatic,SUV,18652,1715823,1977141,261318,31,Female,Delhi,Sneha Patil,UPI
+CAR_1270,Tata,Nexon,2018,2018-03-03,2018-06-09,Petrol,Automatic,SUV,40098,1934263,2238857,304594,46,Male,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1271,Mahindra,Thar,2021,2021-07-05,2021-09-08,Diesel,Manual,SUV,66753,1852879,2228429,375550,42,Male,Mumbai,Sneha Patil,UPI
+CAR_1272,Toyota,Glanza,2021,2021-06-09,2021-11-03,Diesel,Automatic,Hatchback,109523,1971286,2256448,285162,51,Male,Mumbai,Rahul Sharma,UPI
+CAR_1273,Toyota,Glanza,2018,2018-07-13,2019-04-15,Petrol,Automatic,Hatchback,46605,1987819,2290147,302328,43,Female,Mumbai,Sneha Patil,Cash
+CAR_1274,Honda,Elevate,2017,2017-10-10,2018-03-03,Petrol,Manual,Hatchback,115107,2356874,2626380,269506,40,Female,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1275,Tata,Nexon,2023,2023-01-01,2023-02-18,Diesel,Manual,SUV,108401,884273,995565,111292,34,Female,Mumbai,Sneha Patil,Cash
+CAR_1276,Toyota,Innova,2019,2019-07-24,2020-05-30,Diesel,Manual,Hatchback,66744,1202242,1332810,130568,60,Male,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1277,Maruti Suzuki,Brezza,2023,2023-11-03,2024-06-26,CNG,Manual,SUV,52897,1871867,2252640,380773,49,Male,Mumbai,Rahul Sharma,Cash
+CAR_1278,Honda,City,2017,2017-12-19,2018-05-15,Diesel,Manual,Sedan,9434,1629458,1954854,325396,36,Male,Kolhapur,Rahul Sharma,Bank Transfer
+CAR_1279,Honda,City,2022,2022-02-19,2022-05-07,Petrol,Manual,Sedan,56717,755054,872726,117672,57,Male,Bangalore,Priya Kulkarni,Cash
+CAR_1280,Maruti Suzuki,Swift,2016,2016-02-13,2016-04-27,Electric,Manual,Hatchback,50276,2399482,2605830,206348,24,Male,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1281,Tata,Altroz,2018,2018-11-20,2019-11-15,Diesel,Automatic,Hatchback,13026,1775645,1971806,196161,30,Female,Bangalore,Sneha Patil,Cash
+CAR_1282,Maruti Suzuki,Swift,2019,2019-07-26,2020-03-20,Petrol,Manual,Hatchback,46003,682140,773633,91493,49,Male,Bangalore,Sneha Patil,Cash
+CAR_1283,Hyundai,i20,2021,2021-03-21,2021-06-22,Diesel,Automatic,Hatchback,92796,2353341,2593162,239821,63,Male,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1284,Tata,Nexon,2022,2022-11-02,2023-03-05,CNG,Automatic,SUV,115986,2205518,2554232,348714,47,Female,Pune,Priya Kulkarni,UPI
+CAR_1285,Hyundai,Verna,2016,2016-01-06,2016-09-30,Diesel,Automatic,Sedan,27588,1658624,1914087,255463,53,Female,Delhi,Sneha Patil,Bank Transfer
+CAR_1286,Toyota,Glanza,2018,2018-07-22,2018-11-02,Diesel,Automatic,Hatchback,48395,868758,1057854,189096,45,Female,Pune,Rahul Sharma,Finance/Loan
+CAR_1287,Mahindra,Thar,2022,2022-01-05,2022-04-07,Petrol,Manual,SUV,30183,1399074,1672461,273387,27,Male,Kolhapur,Priya Kulkarni,Finance/Loan
+CAR_1288,Toyota,Glanza,2022,2022-06-18,2023-04-01,Diesel,Automatic,Hatchback,91908,2404517,2628830,224313,41,Female,Kolhapur,Rahul Sharma,UPI
+CAR_1289,Tata,Nexon,2017,2017-11-03,2018-04-24,Petrol,Manual,SUV,40618,869450,982878,113428,32,Female,Bangalore,Priya Kulkarni,Cash
+CAR_1290,Tata,Harrier,2020,2020-08-18,2021-03-18,CNG,Manual,SUV,49386,1153492,1310743,157251,40,Male,Bangalore,Rahul Sharma,Cash
+CAR_1291,Tata,Altroz,2016,2016-10-11,2017-04-11,Petrol,Manual,Hatchback,92959,1350922,1634723,283801,49,Male,Kolhapur,Rahul Sharma,UPI
+CAR_1292,Toyota,Fortuner,2018,2018-06-17,2019-01-02,Diesel,Manual,SUV,19026,943898,1108942,165044,39,Female,Kolhapur,Rahul Sharma,Finance/Loan
+CAR_1293,Toyota,Glanza,2023,2023-11-25,2024-06-23,Petrol,Manual,Hatchback,69575,679143,800519,121376,43,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1294,Honda,Amaze,2018,2018-02-16,2018-05-15,Diesel,Automatic,Hatchback,71677,1059987,1287384,227397,24,Female,Pune,Sneha Patil,Cash
+CAR_1295,Toyota,Fortuner,2019,2019-01-06,2019-12-23,CNG,Manual,SUV,29519,1181163,1334347,153184,43,Female,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1296,Honda,City,2018,2018-04-23,2018-10-13,Diesel,Manual,Sedan,87895,1908590,2243897,335307,48,Male,Mumbai,Amit Deshmukh,UPI
+CAR_1297,Mahindra,Thar,2015,2015-07-25,2016-05-13,CNG,Automatic,SUV,36085,1766291,1993526,227235,33,Male,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1298,Honda,City,2017,2017-11-02,2018-02-10,Petrol,Manual,Sedan,97435,432101,523677,91576,53,Female,Delhi,Priya Kulkarni,UPI
+CAR_1299,Toyota,Fortuner,2023,2023-08-08,2024-06-28,Petrol,Manual,SUV,95221,761309,824400,63091,31,Male,Bangalore,Rahul Sharma,Finance/Loan
+CAR_1300,Toyota,Innova,2018,2018-05-26,2018-09-18,CNG,Automatic,Hatchback,17453,2122750,2585811,463061,44,Female,Pune,Amit Deshmukh,UPI
+CAR_1301,Tata,Harrier,2019,2019-06-10,2019-11-14,Petrol,Manual,SUV,90103,2183611,2507433,323822,38,Male,Pune,Rahul Sharma,UPI
+CAR_1302,Hyundai,i20,2022,2022-02-09,2022-12-13,Diesel,Manual,Hatchback,33018,997904,1198191,200287,36,Male,Delhi,Rahul Sharma,Finance/Loan
+CAR_1303,Maruti Suzuki,Baleno,2019,2019-02-13,2019-10-08,Diesel,Manual,Hatchback,22618,724934,794804,69870,39,Female,Bangalore,Amit Deshmukh,Cash
+CAR_1304,Honda,City,2015,2015-01-05,2015-04-21,Diesel,Manual,Sedan,6630,2255797,2508842,253045,60,Female,Mumbai,Rahul Sharma,Finance/Loan
+CAR_1305,Tata,Harrier,2020,2020-08-21,2021-04-29,CNG,Manual,SUV,11901,1840351,2226451,386100,29,Male,Mumbai,Sneha Patil,Bank Transfer
+CAR_1306,Tata,Harrier,2017,2017-11-12,2018-06-06,Diesel,Manual,SUV,17100,1767741,2153803,386062,62,Male,Delhi,Sneha Patil,Finance/Loan
+CAR_1307,Honda,City,2016,2016-01-20,2016-09-10,Petrol,Manual,Sedan,74504,1630796,1782669,151873,29,Female,Kolhapur,Rahul Sharma,UPI
+CAR_1308,Honda,Elevate,2021,2021-05-17,2021-11-18,Diesel,Manual,Hatchback,98185,1678673,1933510,254837,51,Male,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1309,Toyota,Fortuner,2016,2016-11-21,2017-03-24,Petrol,Manual,SUV,98095,1167442,1361375,193933,30,Female,Pune,Priya Kulkarni,UPI
+CAR_1310,Toyota,Glanza,2018,2018-01-25,2018-12-28,CNG,Automatic,Hatchback,79795,1146760,1292445,145685,33,Male,Delhi,Sneha Patil,Cash
+CAR_1311,Maruti Suzuki,Brezza,2015,2015-11-08,2016-01-18,Petrol,Automatic,SUV,118502,1733520,1923356,189836,50,Male,Delhi,Priya Kulkarni,UPI
+CAR_1312,Honda,Amaze,2016,2016-06-05,2017-01-12,Petrol,Manual,Hatchback,113464,617314,702874,85560,45,Male,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1313,Tata,Altroz,2015,2015-06-19,2016-01-18,Petrol,Automatic,Hatchback,81918,478116,575594,97478,25,Female,Pune,Rahul Sharma,UPI
+CAR_1314,Mahindra,Scorpio,2018,2018-10-17,2019-02-28,Petrol,Manual,SUV,76762,1929017,2158450,229433,61,Female,Kolhapur,Priya Kulkarni,Cash
+CAR_1315,Hyundai,Creta,2022,2022-01-12,2022-09-06,Petrol,Manual,SUV,66576,1137463,1323244,185781,45,Male,Delhi,Rahul Sharma,UPI
+CAR_1316,Hyundai,Verna,2022,2022-06-10,2022-09-20,Diesel,Automatic,Sedan,49041,2266962,2735339,468377,26,Male,Pune,Amit Deshmukh,Finance/Loan
+CAR_1317,Maruti Suzuki,Brezza,2017,2017-12-09,2018-07-07,Petrol,Automatic,SUV,103262,1788977,2156394,367417,44,Female,Mumbai,Sneha Patil,Cash
+CAR_1318,Hyundai,Creta,2017,2017-10-21,2018-03-15,Petrol,Automatic,SUV,98664,990073,1088280,98207,36,Female,Mumbai,Rahul Sharma,Finance/Loan
+CAR_1319,Maruti Suzuki,Baleno,2019,2019-06-17,2019-11-05,Petrol,Manual,Hatchback,119778,2051348,2451232,399884,43,Female,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1320,Hyundai,i20,2018,2018-01-08,2018-08-28,CNG,Manual,Hatchback,65652,2400564,2748543,347979,59,Male,Delhi,Rahul Sharma,UPI
+CAR_1321,Hyundai,i20,2022,2022-12-19,2023-02-16,CNG,Manual,Hatchback,9006,2245964,2604232,358268,49,Female,Mumbai,Amit Deshmukh,UPI
+CAR_1322,Hyundai,i20,2022,2022-02-23,2022-04-24,Petrol,Automatic,Hatchback,59710,2489237,2767317,278080,22,Male,Mumbai,Amit Deshmukh,Bank Transfer
+CAR_1323,Honda,Amaze,2019,2019-01-22,2019-08-05,CNG,Automatic,Hatchback,44613,616750,670561,53811,47,Male,Mumbai,Sneha Patil,Cash
+CAR_1324,Honda,City,2020,2020-03-14,2020-04-26,Petrol,Automatic,Sedan,70333,1108092,1256405,148313,52,Male,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1325,Toyota,Fortuner,2015,2015-07-25,2015-09-18,CNG,Manual,SUV,75021,769349,901355,132006,39,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1326,Honda,City,2021,2021-12-23,2022-02-09,Diesel,Manual,Sedan,32042,1147410,1276387,128977,56,Female,Pune,Priya Kulkarni,Finance/Loan
+CAR_1327,Toyota,Innova,2015,2015-07-11,2015-09-28,Petrol,Manual,Hatchback,114708,2165317,2543414,378097,35,Male,Bangalore,Priya Kulkarni,UPI
+CAR_1328,Mahindra,Scorpio,2018,2018-10-13,2019-05-24,Diesel,Manual,SUV,75423,576298,643568,67270,60,Male,Pune,Priya Kulkarni,UPI
+CAR_1329,Mahindra,XUV700,2021,2021-10-25,2022-09-05,Diesel,Manual,SUV,43084,619707,707796,88089,44,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1330,Mahindra,Thar,2021,2021-06-10,2021-12-02,Petrol,Manual,SUV,9552,1326921,1539528,212607,24,Female,Kolhapur,Amit Deshmukh,Cash
+CAR_1331,Mahindra,XUV700,2018,2018-01-09,2018-09-09,CNG,Manual,SUV,88136,2188053,2603042,414989,32,Male,Kolhapur,Sneha Patil,UPI
+CAR_1332,Maruti Suzuki,Brezza,2015,2015-02-17,2015-11-24,CNG,Manual,SUV,55258,2120444,2356183,235739,44,Female,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1333,Toyota,Glanza,2023,2023-10-14,2024-09-21,Petrol,Automatic,Hatchback,104352,2312162,2692149,379987,55,Female,Kolhapur,Amit Deshmukh,UPI
+CAR_1334,Toyota,Innova,2020,2020-07-23,2021-03-18,Petrol,Automatic,Hatchback,52947,1080913,1175046,94133,32,Female,Mumbai,Amit Deshmukh,Bank Transfer
+CAR_1335,Tata,Nexon,2020,2020-09-12,2021-06-07,Petrol,Manual,SUV,47316,1119846,1210414,90568,47,Male,Kolhapur,Amit Deshmukh,UPI
+CAR_1336,Honda,Elevate,2022,2022-12-12,2023-05-31,CNG,Automatic,Hatchback,66692,1137744,1264774,127030,42,Female,Delhi,Sneha Patil,Finance/Loan
+CAR_1337,Mahindra,Scorpio,2019,2019-07-16,2020-05-10,Diesel,Manual,SUV,57347,1679356,1917648,238292,24,Male,Bangalore,Amit Deshmukh,Bank Transfer
+CAR_1338,Mahindra,XUV700,2019,2019-05-27,2020-05-01,Petrol,Manual,SUV,75469,1484309,1629146,144837,39,Male,Bangalore,Sneha Patil,Cash
+CAR_1339,Tata,Altroz,2016,2016-11-22,2017-07-30,Petrol,Manual,Hatchback,100598,2170403,2381139,210736,40,Female,Bangalore,Amit Deshmukh,UPI
+CAR_1340,Maruti Suzuki,Swift,2018,2018-02-18,2018-03-24,Petrol,Automatic,Hatchback,8748,1999417,2169150,169733,55,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1341,Mahindra,XUV700,2017,2017-09-21,2018-04-27,Diesel,Automatic,SUV,5287,1470913,1678033,207120,31,Female,Pune,Priya Kulkarni,Finance/Loan
+CAR_1342,Maruti Suzuki,Baleno,2021,2021-05-11,2021-09-05,CNG,Manual,Hatchback,31627,1100270,1314353,214083,52,Male,Mumbai,Amit Deshmukh,Finance/Loan
+CAR_1343,Maruti Suzuki,Brezza,2019,2019-10-07,2020-02-19,CNG,Manual,SUV,44321,446250,542164,95914,24,Female,Kolhapur,Sneha Patil,UPI
+CAR_1344,Maruti Suzuki,Baleno,2016,2016-01-16,2016-12-26,Petrol,Manual,Hatchback,107171,514456,556936,42480,31,Female,Pune,Priya Kulkarni,Cash
+CAR_1345,Toyota,Innova,2020,2020-10-15,2021-07-17,Petrol,Manual,Hatchback,91483,1308017,1420898,112881,62,Female,Pune,Priya Kulkarni,Bank Transfer
+CAR_1346,Maruti Suzuki,Baleno,2022,2022-09-12,2023-04-30,Diesel,Automatic,Hatchback,27191,1652390,1930640,278250,22,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1347,Honda,Elevate,2016,2016-09-14,2017-04-25,Petrol,Automatic,Hatchback,36899,2302716,2494890,192174,42,Female,Delhi,Sneha Patil,Finance/Loan
+CAR_1348,Honda,Amaze,2020,2020-08-06,2020-10-10,Electric,Automatic,Hatchback,48646,1579580,1905031,325451,46,Female,Mumbai,Rahul Sharma,Finance/Loan
+CAR_1349,Mahindra,Scorpio,2020,2020-03-23,2020-08-22,Petrol,Automatic,SUV,81436,2451789,2898085,446296,37,Male,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1350,Toyota,Glanza,2015,2015-09-22,2015-12-04,Diesel,Manual,Hatchback,87291,1996246,2359665,363419,35,Male,Kolhapur,Rahul Sharma,Cash
+CAR_1351,Tata,Nexon,2017,2017-06-23,2018-05-06,CNG,Automatic,SUV,48298,1904900,2194491,289591,27,Male,Mumbai,Amit Deshmukh,Bank Transfer
+CAR_1352,Hyundai,i20,2019,2019-12-27,2020-04-23,Petrol,Manual,Hatchback,69427,997578,1193264,195686,45,Male,Delhi,Sneha Patil,Bank Transfer
+CAR_1353,Tata,Harrier,2017,2017-01-26,2017-06-15,Petrol,Manual,SUV,12493,1765103,1939229,174126,24,Female,Kolhapur,Rahul Sharma,UPI
+CAR_1354,Mahindra,Thar,2018,2018-09-07,2019-06-23,Petrol,Automatic,SUV,12130,537900,639696,101796,34,Female,Mumbai,Sneha Patil,Finance/Loan
+CAR_1355,Mahindra,XUV700,2019,2019-06-11,2020-02-06,Petrol,Manual,SUV,22241,554226,635690,81464,64,Male,Bangalore,Rahul Sharma,Finance/Loan
+CAR_1356,Tata,Altroz,2017,2017-12-15,2018-10-07,Diesel,Automatic,Hatchback,65197,756778,846115,89337,27,Female,Bangalore,Sneha Patil,Cash
+CAR_1357,Hyundai,i20,2017,2017-08-08,2017-10-28,Diesel,Manual,Hatchback,25746,1951676,2380106,428430,33,Female,Bangalore,Amit Deshmukh,UPI
+CAR_1358,Toyota,Innova,2019,2019-08-16,2020-06-09,Diesel,Automatic,Hatchback,103232,1215363,1379961,164598,28,Female,Pune,Amit Deshmukh,Finance/Loan
+CAR_1359,Honda,City,2021,2021-07-18,2021-09-13,Diesel,Manual,Sedan,22304,2281554,2488584,207030,35,Female,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1360,Maruti Suzuki,Brezza,2018,2018-08-25,2019-01-07,Diesel,Manual,SUV,69757,2391161,2603023,211862,44,Male,Pune,Amit Deshmukh,Bank Transfer
+CAR_1361,Maruti Suzuki,Baleno,2015,2015-09-10,2016-02-24,Petrol,Manual,Hatchback,16569,806245,968738,162493,54,Male,Bangalore,Rahul Sharma,Finance/Loan
+CAR_1362,Hyundai,i20,2018,2018-11-22,2019-07-27,Petrol,Manual,Hatchback,116048,1546375,1744879,198504,40,Female,Pune,Priya Kulkarni,UPI
+CAR_1363,Tata,Altroz,2023,2023-02-16,2023-05-03,CNG,Manual,Hatchback,91436,1370278,1660146,289868,47,Female,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1364,Honda,Amaze,2016,2016-12-12,2017-08-20,Petrol,Manual,Hatchback,33926,2334790,2743352,408562,47,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1365,Honda,Amaze,2017,2017-05-18,2017-09-19,Electric,Manual,Hatchback,70449,849764,1011244,161480,51,Male,Mumbai,Sneha Patil,Cash
+CAR_1366,Mahindra,XUV700,2015,2015-11-21,2016-09-16,Diesel,Manual,SUV,21555,1014673,1181002,166329,64,Female,Bangalore,Sneha Patil,Cash
+CAR_1367,Hyundai,i20,2018,2018-11-18,2019-07-01,Petrol,Automatic,Hatchback,22857,1671209,1988432,317223,42,Male,Kolhapur,Priya Kulkarni,UPI
+CAR_1368,Honda,Elevate,2017,2017-07-17,2018-05-07,Petrol,Automatic,Hatchback,110924,487593,545943,58350,31,Male,Pune,Amit Deshmukh,UPI
+CAR_1369,Toyota,Glanza,2017,2017-03-10,2017-05-07,Petrol,Manual,Hatchback,41133,1546204,1774518,228314,29,Female,Pune,Priya Kulkarni,UPI
+CAR_1370,Mahindra,XUV700,2019,2019-03-13,2019-08-25,Diesel,Manual,SUV,57719,1501627,1676017,174390,28,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1371,Maruti Suzuki,Swift,2015,2015-10-11,2016-06-04,CNG,Manual,Hatchback,41824,2137009,2358796,221787,38,Female,Pune,Sneha Patil,Finance/Loan
+CAR_1372,Honda,City,2018,2018-09-23,2019-04-11,Diesel,Automatic,Sedan,32672,1763133,1998510,235377,35,Female,Pune,Amit Deshmukh,Finance/Loan
+CAR_1373,Maruti Suzuki,Brezza,2022,2022-11-15,2023-04-30,Petrol,Manual,SUV,64872,1793453,2185135,391682,24,Female,Delhi,Rahul Sharma,Cash
+CAR_1374,Maruti Suzuki,Baleno,2016,2016-02-02,2016-12-28,Petrol,Automatic,Hatchback,54646,1806065,2109275,303210,32,Male,Kolhapur,Amit Deshmukh,Cash
+CAR_1375,Hyundai,Creta,2020,2020-12-24,2021-09-12,Diesel,Automatic,SUV,11869,1378582,1492087,113505,40,Female,Bangalore,Amit Deshmukh,Finance/Loan
+CAR_1376,Mahindra,XUV700,2015,2015-03-27,2015-10-22,CNG,Manual,SUV,19745,1855713,2173630,317917,61,Female,Delhi,Sneha Patil,UPI
+CAR_1377,Mahindra,Scorpio,2020,2020-12-16,2021-07-06,Petrol,Manual,SUV,107390,2368921,2859254,490333,46,Male,Mumbai,Sneha Patil,UPI
+CAR_1378,Tata,Altroz,2021,2021-11-18,2022-07-30,Diesel,Manual,Hatchback,39650,1028177,1120385,92208,61,Male,Pune,Amit Deshmukh,Bank Transfer
+CAR_1379,Mahindra,XUV700,2020,2020-11-09,2021-08-10,Diesel,Automatic,SUV,45025,2460583,2867600,407017,34,Male,Bangalore,Rahul Sharma,Bank Transfer
+CAR_1380,Toyota,Innova,2023,2023-02-25,2023-05-23,Petrol,Manual,Hatchback,56448,2078332,2458344,380012,32,Female,Pune,Priya Kulkarni,UPI
+CAR_1381,Toyota,Glanza,2015,2015-08-19,2016-02-10,Diesel,Manual,Hatchback,44255,787773,921609,133836,46,Male,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1382,Tata,Harrier,2023,2023-02-19,2023-10-17,Diesel,Manual,SUV,32464,1570473,1735859,165386,55,Female,Bangalore,Priya Kulkarni,UPI
+CAR_1383,Hyundai,Creta,2023,2023-06-21,2023-11-19,Petrol,Automatic,SUV,88434,2184094,2411362,227268,51,Male,Bangalore,Sneha Patil,Finance/Loan
+CAR_1384,Mahindra,Thar,2023,2023-04-08,2023-05-16,Petrol,Manual,SUV,32856,2390242,2767987,377745,26,Male,Delhi,Priya Kulkarni,UPI
+CAR_1385,Hyundai,Verna,2016,2016-04-10,2016-08-26,Diesel,Manual,Sedan,100239,2087023,2347408,260385,30,Female,Delhi,Amit Deshmukh,UPI
+CAR_1386,Toyota,Innova,2018,2018-08-13,2019-06-06,Petrol,Automatic,Hatchback,29648,1430451,1647464,217013,44,Male,Delhi,Amit Deshmukh,Cash
+CAR_1387,Honda,Amaze,2017,2017-05-23,2018-01-30,Diesel,Automatic,Hatchback,7795,1971480,2330493,359013,60,Female,Pune,Amit Deshmukh,Bank Transfer
+CAR_1388,Tata,Harrier,2017,2017-02-11,2017-09-20,Diesel,Manual,SUV,44867,2072558,2505747,433189,45,Male,Bangalore,Amit Deshmukh,Cash
+CAR_1389,Mahindra,XUV700,2017,2017-07-14,2017-11-20,Petrol,Manual,SUV,103264,2009425,2259341,249916,40,Female,Mumbai,Amit Deshmukh,Cash
+CAR_1390,Toyota,Glanza,2016,2016-04-25,2016-05-30,Diesel,Automatic,Hatchback,68772,550653,620270,69617,38,Female,Kolhapur,Sneha Patil,UPI
+CAR_1391,Tata,Harrier,2016,2016-12-03,2017-03-17,CNG,Manual,SUV,111073,1563951,1761063,197112,60,Female,Kolhapur,Priya Kulkarni,UPI
+CAR_1392,Mahindra,Scorpio,2021,2021-09-13,2022-03-18,Diesel,Automatic,SUV,116299,1708166,2016396,308230,48,Female,Bangalore,Amit Deshmukh,Cash
+CAR_1393,Tata,Altroz,2019,2019-01-18,2019-04-20,Diesel,Manual,Hatchback,21766,804911,962689,157778,53,Male,Bangalore,Amit Deshmukh,Bank Transfer
+CAR_1394,Tata,Harrier,2015,2015-12-24,2016-05-17,Petrol,Manual,SUV,75990,2457797,2774782,316985,57,Male,Kolhapur,Sneha Patil,UPI
+CAR_1395,Toyota,Innova,2016,2016-08-08,2017-03-14,Petrol,Manual,Hatchback,34424,1228416,1336347,107931,36,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1396,Hyundai,Creta,2021,2021-07-25,2021-09-30,Petrol,Manual,SUV,36105,923472,1055692,132220,46,Female,Delhi,Priya Kulkarni,Cash
+CAR_1397,Toyota,Innova,2020,2020-03-05,2020-12-31,CNG,Automatic,Hatchback,14130,489360,547477,58117,23,Female,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1398,Honda,Amaze,2015,2015-07-25,2016-07-13,Petrol,Manual,Hatchback,52922,594152,689160,95008,30,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1399,Maruti Suzuki,Brezza,2018,2018-06-22,2019-04-25,CNG,Automatic,SUV,48258,1353197,1627445,274248,28,Male,Mumbai,Rahul Sharma,Finance/Loan
+CAR_1400,Mahindra,Thar,2016,2016-11-11,2017-02-07,Diesel,Automatic,SUV,38896,1927222,2091002,163780,27,Female,Pune,Amit Deshmukh,Bank Transfer
+CAR_1401,Hyundai,i20,2022,2022-02-22,2022-07-14,Petrol,Automatic,Hatchback,62769,904910,1075255,170345,51,Female,Pune,Sneha Patil,Finance/Loan
+CAR_1402,Tata,Altroz,2022,2022-02-10,2022-11-29,Diesel,Manual,Hatchback,21576,1280432,1536587,256155,64,Male,Delhi,Sneha Patil,Bank Transfer
+CAR_1403,Maruti Suzuki,Brezza,2017,2017-08-19,2018-04-03,Petrol,Automatic,SUV,82733,1267392,1537594,270202,45,Female,Kolhapur,Sneha Patil,UPI
+CAR_1404,Maruti Suzuki,Brezza,2017,2017-06-11,2018-02-07,CNG,Automatic,SUV,105905,1926369,2307018,380649,51,Female,Pune,Amit Deshmukh,Bank Transfer
+CAR_1405,Maruti Suzuki,Baleno,2021,2021-09-15,2022-02-01,CNG,Automatic,Hatchback,39678,873656,952175,78519,56,Female,Delhi,Rahul Sharma,Finance/Loan
+CAR_1406,Toyota,Innova,2020,2020-05-01,2020-11-25,Petrol,Automatic,Hatchback,113047,2235068,2564962,329894,47,Female,Bangalore,Rahul Sharma,Finance/Loan
+CAR_1407,Hyundai,Verna,2015,2015-09-27,2015-11-18,Electric,Manual,Sedan,72691,2488097,2818485,330388,25,Female,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1408,Hyundai,i20,2015,2015-05-12,2016-05-01,Diesel,Manual,Hatchback,13320,650606,752482,101876,27,Male,Pune,Sneha Patil,Cash
+CAR_1409,Maruti Suzuki,Brezza,2021,2021-10-13,2022-10-12,Electric,Manual,SUV,44886,2022563,2235080,212517,48,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1410,Hyundai,i20,2021,2021-06-23,2022-02-15,Diesel,Manual,Hatchback,64470,2335772,2570383,234611,62,Male,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1411,Hyundai,Verna,2021,2021-09-01,2021-11-30,Petrol,Manual,Sedan,8174,517769,569955,52186,55,Female,Bangalore,Rahul Sharma,Bank Transfer
+CAR_1412,Mahindra,Thar,2015,2015-10-19,2016-05-26,Diesel,Manual,SUV,21075,1944247,2259432,315185,53,Male,Kolhapur,Priya Kulkarni,Cash
+CAR_1413,Honda,Elevate,2016,2016-10-02,2017-03-07,Petrol,Automatic,Hatchback,20630,944344,1110304,165960,43,Female,Pune,Rahul Sharma,UPI
+CAR_1414,Hyundai,i20,2019,2019-11-21,2020-06-03,Petrol,Manual,Hatchback,115957,939767,1086517,146750,45,Male,Mumbai,Sneha Patil,Finance/Loan
+CAR_1415,Maruti Suzuki,Baleno,2022,2022-09-04,2023-07-03,Petrol,Automatic,Hatchback,66607,1925450,2144240,218790,39,Male,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1416,Toyota,Innova,2016,2016-10-16,2017-06-14,CNG,Manual,Hatchback,56272,649264,711649,62385,25,Female,Kolhapur,Priya Kulkarni,Finance/Loan
+CAR_1417,Tata,Nexon,2019,2019-07-19,2019-09-12,Petrol,Manual,SUV,17379,1333296,1522996,189700,24,Female,Mumbai,Sneha Patil,UPI
+CAR_1418,Maruti Suzuki,Swift,2015,2015-08-03,2015-10-20,CNG,Manual,Hatchback,92347,1553891,1882910,329019,28,Female,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1419,Toyota,Fortuner,2015,2015-01-25,2015-11-16,Petrol,Manual,SUV,77903,1846374,2086361,239987,37,Female,Mumbai,Sneha Patil,UPI
+CAR_1420,Hyundai,Creta,2021,2021-01-26,2021-06-25,Petrol,Manual,SUV,76091,858819,1013507,154688,32,Female,Bangalore,Sneha Patil,Cash
+CAR_1421,Mahindra,Scorpio,2015,2015-08-02,2016-04-23,Petrol,Manual,SUV,47919,1269953,1375475,105522,44,Male,Delhi,Amit Deshmukh,Cash
+CAR_1422,Honda,Amaze,2018,2018-04-27,2018-07-11,Diesel,Automatic,Hatchback,12489,753791,917030,163239,37,Male,Pune,Priya Kulkarni,Cash
+CAR_1423,Honda,Amaze,2018,2018-06-18,2018-07-29,CNG,Manual,Hatchback,86268,747186,827017,79831,53,Female,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1424,Tata,Nexon,2019,2019-07-27,2019-11-02,Petrol,Manual,SUV,17665,1222564,1340755,118191,24,Male,Mumbai,Sneha Patil,Cash
+CAR_1425,Toyota,Innova,2020,2020-08-10,2020-10-13,Petrol,Manual,Hatchback,114321,2451723,2714061,262338,55,Male,Pune,Sneha Patil,Cash
+CAR_1426,Maruti Suzuki,Brezza,2017,2017-01-12,2017-02-14,Petrol,Automatic,SUV,75740,428885,517136,88251,39,Male,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1427,Maruti Suzuki,Baleno,2016,2016-06-08,2016-11-09,Diesel,Manual,Hatchback,98054,1844359,2064112,219753,57,Female,Delhi,Priya Kulkarni,Finance/Loan
+CAR_1428,Mahindra,Thar,2020,2020-02-21,2020-08-17,Petrol,Manual,SUV,16283,996822,1146676,149854,22,Female,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1429,Mahindra,Scorpio,2021,2021-10-06,2022-03-29,Diesel,Manual,SUV,108986,2298761,2699172,400411,42,Female,Delhi,Rahul Sharma,Bank Transfer
+CAR_1430,Maruti Suzuki,Brezza,2016,2016-08-25,2017-05-25,CNG,Manual,SUV,56482,2420937,2785742,364805,63,Female,Pune,Sneha Patil,Cash
+CAR_1431,Tata,Altroz,2016,2016-09-20,2017-06-08,CNG,Manual,Hatchback,73159,2117479,2566657,449178,23,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1432,Mahindra,XUV700,2017,2017-02-22,2017-07-11,Petrol,Manual,SUV,55717,834352,1013969,179617,47,Female,Mumbai,Amit Deshmukh,Cash
+CAR_1433,Maruti Suzuki,Baleno,2017,2017-02-05,2017-12-06,Petrol,Manual,Hatchback,92759,1219745,1326925,107180,29,Female,Mumbai,Priya Kulkarni,Cash
+CAR_1434,Hyundai,Creta,2020,2020-03-03,2020-06-30,Diesel,Manual,SUV,8326,2131530,2523904,392374,39,Male,Delhi,Sneha Patil,Finance/Loan
+CAR_1435,Hyundai,Verna,2019,2019-07-26,2019-11-20,Petrol,Manual,Sedan,111749,1604552,1824212,219660,58,Male,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1436,Mahindra,Thar,2023,2023-05-14,2023-12-07,CNG,Manual,SUV,72334,525851,617714,91863,36,Female,Bangalore,Rahul Sharma,Bank Transfer
+CAR_1437,Maruti Suzuki,Brezza,2019,2019-07-21,2020-04-12,Petrol,Automatic,SUV,97071,2419990,2936157,516167,51,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1438,Toyota,Fortuner,2023,2023-12-12,2024-04-09,CNG,Automatic,SUV,31331,2472072,2856159,384087,49,Female,Kolhapur,Rahul Sharma,Bank Transfer
+CAR_1439,Honda,Amaze,2021,2021-10-13,2022-01-08,Petrol,Automatic,Hatchback,106187,1006752,1117617,110865,62,Female,Delhi,Priya Kulkarni,UPI
+CAR_1440,Hyundai,Verna,2023,2023-06-15,2024-03-31,Petrol,Manual,Sedan,76051,2342517,2852278,509761,39,Female,Bangalore,Rahul Sharma,UPI
+CAR_1441,Mahindra,Scorpio,2018,2018-05-03,2018-06-10,CNG,Manual,SUV,107306,493246,577838,84592,55,Male,Bangalore,Rahul Sharma,Cash
+CAR_1442,Toyota,Fortuner,2018,2018-05-02,2019-01-20,Petrol,Automatic,SUV,62104,1846743,2145293,298550,63,Female,Pune,Rahul Sharma,Bank Transfer
+CAR_1443,Honda,Elevate,2020,2020-04-17,2020-07-14,Petrol,Manual,Hatchback,82360,1748055,1919973,171918,52,Male,Kolhapur,Amit Deshmukh,Bank Transfer
+CAR_1444,Maruti Suzuki,Baleno,2023,2023-11-04,2024-06-15,Diesel,Manual,Hatchback,65408,791670,902313,110643,33,Male,Delhi,Priya Kulkarni,Finance/Loan
+CAR_1445,Mahindra,XUV700,2021,2021-06-21,2021-10-12,Petrol,Automatic,SUV,54316,1816084,2035326,219242,58,Male,Kolhapur,Sneha Patil,Cash
+CAR_1446,Hyundai,Creta,2018,2018-04-20,2019-03-23,Electric,Manual,SUV,98944,1127467,1229550,102083,55,Female,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1447,Hyundai,i20,2021,2021-05-26,2021-07-04,Diesel,Automatic,Hatchback,24122,686100,750275,64175,49,Male,Delhi,Sneha Patil,Cash
+CAR_1448,Maruti Suzuki,Swift,2015,2015-05-26,2015-12-26,Petrol,Manual,Hatchback,24751,522026,565769,43743,57,Female,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1449,Maruti Suzuki,Baleno,2015,2015-04-26,2015-09-10,Petrol,Automatic,Hatchback,59144,544454,613607,69153,42,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1450,Honda,City,2019,2019-08-21,2019-10-07,Petrol,Automatic,Sedan,33690,473568,577672,104104,24,Female,Delhi,Amit Deshmukh,Cash
+CAR_1451,Tata,Nexon,2020,2020-07-20,2021-02-06,Petrol,Manual,SUV,29502,1995350,2264736,269386,34,Male,Mumbai,Rahul Sharma,Cash
+CAR_1452,Hyundai,Verna,2017,2017-08-07,2018-01-01,Petrol,Automatic,Sedan,20123,893896,967184,73288,23,Male,Bangalore,Amit Deshmukh,Cash
+CAR_1453,Toyota,Glanza,2016,2016-05-22,2017-02-26,Petrol,Automatic,Hatchback,109871,1330220,1447011,116791,46,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1454,Toyota,Innova,2018,2018-03-24,2018-05-06,Petrol,Manual,Hatchback,22106,458123,503324,45201,51,Female,Kolhapur,Amit Deshmukh,UPI
+CAR_1455,Maruti Suzuki,Swift,2023,2023-12-24,2024-07-28,Diesel,Manual,Hatchback,55251,2169107,2414998,245891,22,Female,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1456,Honda,Elevate,2020,2020-02-16,2020-04-12,Diesel,Automatic,Hatchback,101176,429777,516384,86607,52,Female,Pune,Amit Deshmukh,Finance/Loan
+CAR_1457,Hyundai,Creta,2023,2023-11-09,2024-06-25,Electric,Automatic,SUV,56588,1617933,1826205,208272,25,Male,Bangalore,Priya Kulkarni,Cash
+CAR_1458,Mahindra,Scorpio,2020,2020-07-16,2021-01-27,Petrol,Automatic,SUV,101472,1376006,1546890,170884,33,Female,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1459,Hyundai,Creta,2021,2021-02-02,2021-05-16,Diesel,Manual,SUV,72600,2076483,2360369,283886,62,Male,Kolhapur,Priya Kulkarni,UPI
+CAR_1460,Hyundai,Creta,2016,2016-06-13,2017-05-22,Petrol,Manual,SUV,115350,745165,889780,144615,58,Female,Kolhapur,Amit Deshmukh,Bank Transfer
+CAR_1461,Honda,Amaze,2017,2017-03-12,2017-07-12,Petrol,Manual,Hatchback,10495,2420880,2706446,285566,40,Male,Pune,Rahul Sharma,UPI
+CAR_1462,Toyota,Glanza,2019,2019-08-06,2019-09-08,CNG,Manual,Hatchback,94080,1529250,1708709,179459,46,Female,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1463,Honda,City,2020,2020-01-04,2020-09-21,Petrol,Manual,Sedan,106121,665976,791765,125789,23,Female,Bangalore,Amit Deshmukh,UPI
+CAR_1464,Hyundai,Creta,2021,2021-03-03,2021-11-03,CNG,Automatic,SUV,104340,1295668,1502531,206863,34,Female,Pune,Rahul Sharma,Cash
+CAR_1465,Honda,City,2017,2017-03-24,2017-04-27,Diesel,Automatic,Sedan,105468,426505,498345,71840,55,Male,Kolhapur,Rahul Sharma,UPI
+CAR_1466,Toyota,Fortuner,2020,2020-09-20,2021-06-02,Petrol,Manual,SUV,65102,843942,1021072,177130,32,Female,Delhi,Amit Deshmukh,UPI
+CAR_1467,Honda,Amaze,2020,2020-02-22,2020-06-19,Petrol,Manual,Hatchback,31183,1280292,1519794,239502,54,Female,Pune,Amit Deshmukh,Cash
+CAR_1468,Hyundai,Creta,2020,2020-05-05,2021-02-01,Petrol,Manual,SUV,108081,1988858,2340547,351689,39,Male,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1469,Honda,Elevate,2016,2016-12-02,2017-06-18,Petrol,Automatic,Hatchback,18403,1172838,1402650,229812,45,Male,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1470,Toyota,Glanza,2021,2021-10-15,2022-01-05,Petrol,Manual,Hatchback,30563,505185,614167,108982,53,Female,Kolhapur,Rahul Sharma,Finance/Loan
+CAR_1471,Toyota,Fortuner,2017,2017-07-04,2017-08-05,Diesel,Manual,SUV,70034,1389280,1694571,305291,32,Male,Mumbai,Rahul Sharma,UPI
+CAR_1472,Honda,Amaze,2016,2016-11-04,2017-03-24,Diesel,Manual,Hatchback,105962,952226,1115081,162855,60,Male,Mumbai,Amit Deshmukh,Bank Transfer
+CAR_1473,Mahindra,XUV700,2017,2017-02-18,2017-07-23,Diesel,Manual,SUV,79308,988033,1131205,143172,59,Male,Pune,Sneha Patil,Finance/Loan
+CAR_1474,Mahindra,Scorpio,2019,2019-01-15,2020-01-05,CNG,Automatic,SUV,33036,2478937,2914118,435181,47,Female,Bangalore,Sneha Patil,Finance/Loan
+CAR_1475,Toyota,Fortuner,2015,2015-05-03,2015-07-18,CNG,Manual,SUV,65726,1309121,1536786,227665,59,Female,Pune,Sneha Patil,UPI
+CAR_1476,Honda,Amaze,2023,2023-11-08,2024-08-27,Petrol,Automatic,Hatchback,46445,1758356,1961615,203259,42,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1477,Honda,Elevate,2016,2016-09-16,2017-07-07,Petrol,Automatic,Hatchback,35492,686287,824742,138455,58,Female,Mumbai,Priya Kulkarni,Cash
+CAR_1478,Honda,Amaze,2019,2019-01-25,2019-05-07,Petrol,Automatic,Hatchback,31572,1435865,1639332,203467,64,Female,Bangalore,Priya Kulkarni,UPI
+CAR_1479,Toyota,Innova,2021,2021-10-04,2022-08-12,Diesel,Manual,Hatchback,102352,1266164,1477315,211151,44,Female,Pune,Priya Kulkarni,Cash
+CAR_1480,Honda,City,2017,2017-06-26,2018-06-16,Diesel,Manual,Sedan,83929,2435286,2905995,470709,43,Male,Bangalore,Amit Deshmukh,Finance/Loan
+CAR_1481,Mahindra,Thar,2015,2015-01-27,2015-06-22,Petrol,Manual,SUV,78474,1714861,2038009,323148,45,Female,Bangalore,Rahul Sharma,Bank Transfer
+CAR_1482,Toyota,Innova,2022,2022-10-03,2022-11-25,Diesel,Automatic,Hatchback,39831,2204240,2458770,254530,36,Female,Mumbai,Sneha Patil,UPI
+CAR_1483,Maruti Suzuki,Brezza,2017,2017-04-11,2018-03-31,Petrol,Automatic,SUV,59225,640617,696839,56222,28,Male,Kolhapur,Priya Kulkarni,UPI
+CAR_1484,Maruti Suzuki,Baleno,2015,2015-05-16,2015-09-01,Petrol,Manual,Hatchback,17191,2038004,2470876,432872,49,Male,Mumbai,Priya Kulkarni,Finance/Loan
+CAR_1485,Tata,Harrier,2020,2020-04-25,2020-12-27,Diesel,Manual,SUV,65740,2279573,2606307,326734,58,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1486,Mahindra,Thar,2016,2016-02-16,2016-09-01,Petrol,Manual,SUV,51691,631807,687189,55382,60,Male,Pune,Rahul Sharma,Cash
+CAR_1487,Mahindra,XUV700,2017,2017-09-14,2017-12-01,Petrol,Automatic,SUV,38005,1349133,1642156,293023,56,Female,Pune,Amit Deshmukh,UPI
+CAR_1488,Mahindra,Scorpio,2017,2017-09-19,2018-02-18,CNG,Manual,SUV,91155,2355206,2615420,260214,33,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1489,Hyundai,Creta,2015,2015-05-13,2015-10-26,Diesel,Manual,SUV,64025,2200200,2459824,259624,50,Male,Pune,Sneha Patil,Cash
+CAR_1490,Honda,Amaze,2018,2018-02-18,2018-09-07,CNG,Automatic,Hatchback,31498,2069745,2408036,338291,59,Male,Pune,Sneha Patil,Bank Transfer
+CAR_1491,Mahindra,Scorpio,2023,2023-09-06,2024-04-18,Petrol,Automatic,SUV,55227,1209195,1412611,203416,26,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1492,Maruti Suzuki,Baleno,2017,2017-02-12,2017-04-11,CNG,Manual,Hatchback,82597,2241049,2545653,304604,24,Female,Bangalore,Rahul Sharma,UPI
+CAR_1493,Toyota,Glanza,2017,2017-07-23,2017-12-29,Petrol,Manual,Hatchback,77255,2001582,2421968,420386,39,Male,Delhi,Sneha Patil,Bank Transfer
+CAR_1494,Mahindra,Scorpio,2022,2022-11-25,2023-06-04,Diesel,Manual,SUV,104189,698818,852188,153370,47,Male,Delhi,Sneha Patil,UPI
+CAR_1495,Mahindra,Scorpio,2015,2015-10-12,2015-11-21,Diesel,Manual,SUV,112092,2465331,2668311,202980,43,Male,Kolhapur,Sneha Patil,Bank Transfer
+CAR_1496,Tata,Altroz,2022,2022-02-25,2023-02-18,Petrol,Automatic,Hatchback,14490,1780679,2095094,314415,48,Female,Pune,Amit Deshmukh,Bank Transfer
+CAR_1497,Tata,Harrier,2021,2021-12-09,2022-10-23,Petrol,Automatic,SUV,79094,788742,916818,128076,33,Female,Delhi,Sneha Patil,Finance/Loan
+CAR_1498,Toyota,Innova,2015,2015-10-05,2015-11-25,Diesel,Manual,Hatchback,43506,1143264,1312816,169552,51,Female,Delhi,Amit Deshmukh,Cash
+CAR_1499,Hyundai,i20,2015,2015-06-02,2015-11-12,CNG,Manual,Hatchback,49247,2059537,2393332,333795,29,Female,Pune,Rahul Sharma,UPI
+CAR_1500,Honda,City,2020,2020-06-22,2021-04-09,Petrol,Automatic,Sedan,8981,1388722,1524974,136252,28,Female,Pune,Rahul Sharma,Cash
+CAR_1501,Toyota,Innova,2019,2019-07-27,2019-09-03,Petrol,Manual,Hatchback,50836,2379442,2880467,501025,56,Female,Kolhapur,Amit Deshmukh,Bank Transfer
+CAR_1502,Tata,Harrier,2021,2021-01-19,2022-01-06,Petrol,Manual,SUV,108883,1848586,2071379,222793,25,Male,Mumbai,Amit Deshmukh,Finance/Loan
+CAR_1503,Toyota,Fortuner,2023,2023-02-05,2023-08-26,Petrol,Manual,SUV,63773,1219555,1487173,267618,50,Male,Bangalore,Amit Deshmukh,Bank Transfer
+CAR_1504,Maruti Suzuki,Brezza,2015,2015-03-02,2015-08-30,Petrol,Automatic,SUV,6906,932249,1134767,202518,35,Female,Mumbai,Priya Kulkarni,Cash
+CAR_1505,Toyota,Glanza,2020,2020-10-18,2021-09-06,Diesel,Automatic,Hatchback,42146,1313605,1514366,200761,57,Female,Delhi,Rahul Sharma,UPI
+CAR_1506,Tata,Harrier,2018,2018-03-12,2018-11-27,Diesel,Manual,SUV,24157,2270038,2721817,451779,30,Male,Kolhapur,Rahul Sharma,UPI
+CAR_1507,Tata,Nexon,2016,2016-08-01,2016-12-02,Petrol,Automatic,SUV,13123,2478038,2765710,287672,61,Male,Kolhapur,Amit Deshmukh,Bank Transfer
+CAR_1508,Toyota,Innova,2019,2019-04-13,2019-06-01,Petrol,Manual,Hatchback,80761,1648641,1957227,308586,47,Female,Mumbai,Rahul Sharma,UPI
+CAR_1509,Maruti Suzuki,Swift,2017,2017-05-13,2017-07-29,Petrol,Automatic,Hatchback,109779,1556300,1687633,131333,24,Female,Delhi,Priya Kulkarni,UPI
+CAR_1510,Toyota,Fortuner,2015,2015-08-24,2016-04-21,Diesel,Manual,SUV,70867,488780,586271,97491,60,Male,Bangalore,Rahul Sharma,Finance/Loan
+CAR_1511,Hyundai,Verna,2016,2016-12-27,2017-02-09,Petrol,Manual,Sedan,115805,2353097,2829163,476066,39,Male,Bangalore,Sneha Patil,Cash
+CAR_1512,Mahindra,XUV700,2017,2017-10-18,2017-12-15,Diesel,Manual,SUV,30008,1138456,1260081,121625,44,Male,Kolhapur,Rahul Sharma,Bank Transfer
+CAR_1513,Honda,City,2018,2018-03-21,2018-07-05,CNG,Manual,Sedan,61096,2447463,2781524,334061,54,Female,Delhi,Sneha Patil,Cash
+CAR_1514,Tata,Altroz,2020,2020-03-24,2020-08-01,Diesel,Manual,Hatchback,67665,668116,731504,63388,37,Female,Delhi,Rahul Sharma,Bank Transfer
+CAR_1515,Maruti Suzuki,Brezza,2017,2017-10-16,2017-11-26,Petrol,Automatic,SUV,111410,2098019,2347548,249529,53,Male,Kolhapur,Priya Kulkarni,Cash
+CAR_1516,Hyundai,i20,2019,2019-06-03,2019-10-13,Petrol,Manual,Hatchback,104525,763308,903664,140356,36,Male,Pune,Rahul Sharma,Bank Transfer
+CAR_1517,Hyundai,Creta,2021,2021-10-24,2022-10-03,CNG,Manual,SUV,101528,2148076,2495331,347255,48,Male,Kolhapur,Priya Kulkarni,Finance/Loan
+CAR_1518,Hyundai,Creta,2016,2016-05-26,2016-11-08,Diesel,Automatic,SUV,14107,921397,1081801,160404,40,Female,Delhi,Priya Kulkarni,UPI
+CAR_1519,Tata,Altroz,2015,2015-07-04,2015-10-28,Petrol,Manual,Hatchback,22322,2335822,2810511,474689,64,Female,Bangalore,Sneha Patil,Finance/Loan
+CAR_1520,Mahindra,Scorpio,2016,2016-06-23,2016-09-19,CNG,Manual,SUV,14719,408314,483302,74988,32,Male,Pune,Amit Deshmukh,Bank Transfer
+CAR_1521,Hyundai,Creta,2020,2020-10-03,2021-05-11,Diesel,Manual,SUV,112430,2150093,2474218,324125,32,Male,Mumbai,Rahul Sharma,Bank Transfer
+CAR_1522,Tata,Altroz,2017,2017-06-21,2018-01-24,CNG,Manual,Hatchback,22558,1416972,1706635,289663,49,Female,Mumbai,Rahul Sharma,UPI
+CAR_1523,Tata,Nexon,2019,2019-10-18,2020-07-16,Petrol,Manual,SUV,110566,1344353,1618571,274218,35,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1524,Toyota,Fortuner,2016,2016-07-17,2016-12-28,Petrol,Manual,SUV,30757,704543,838635,134092,45,Female,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1525,Toyota,Fortuner,2016,2016-08-15,2017-04-04,Diesel,Manual,SUV,23705,2104491,2300437,195946,64,Female,Bangalore,Amit Deshmukh,UPI
+CAR_1526,Toyota,Fortuner,2020,2020-10-03,2021-02-25,CNG,Manual,SUV,107097,931661,1058661,127000,45,Female,Pune,Sneha Patil,Cash
+CAR_1527,Toyota,Glanza,2018,2018-05-01,2019-03-31,Petrol,Manual,Hatchback,35782,1715502,1856419,140917,58,Female,Bangalore,Amit Deshmukh,Bank Transfer
+CAR_1528,Mahindra,XUV700,2019,2019-02-06,2019-07-17,Petrol,Manual,SUV,27936,2285190,2625818,340628,26,Male,Bangalore,Amit Deshmukh,UPI
+CAR_1529,Hyundai,Creta,2018,2018-03-16,2019-03-03,Petrol,Automatic,SUV,7413,1982369,2291970,309601,30,Female,Kolhapur,Sneha Patil,Cash
+CAR_1530,Toyota,Fortuner,2023,2023-04-14,2023-08-29,Diesel,Automatic,SUV,111830,1994441,2265777,271336,40,Male,Bangalore,Rahul Sharma,UPI
+CAR_1531,Honda,City,2017,2017-06-03,2017-10-15,Petrol,Automatic,Sedan,52819,1583493,1731759,148266,61,Female,Delhi,Amit Deshmukh,Bank Transfer
+CAR_1532,Hyundai,i20,2016,2016-01-10,2016-09-21,Electric,Automatic,Hatchback,86653,1725499,2010121,284622,27,Female,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1533,Tata,Nexon,2018,2018-01-08,2018-11-21,CNG,Manual,SUV,37312,1184681,1354457,169776,44,Male,Pune,Amit Deshmukh,UPI
+CAR_1534,Toyota,Fortuner,2018,2018-02-25,2019-02-12,Petrol,Manual,SUV,46111,982933,1169306,186373,29,Male,Kolhapur,Amit Deshmukh,Cash
+CAR_1535,Honda,Amaze,2022,2022-06-05,2023-02-08,Petrol,Manual,Hatchback,77782,1283435,1538588,255153,54,Male,Bangalore,Sneha Patil,Finance/Loan
+CAR_1536,Toyota,Innova,2015,2015-12-17,2016-08-07,Diesel,Manual,Hatchback,16017,2271621,2649924,378303,34,Male,Bangalore,Rahul Sharma,UPI
+CAR_1537,Honda,Amaze,2023,2023-01-09,2023-08-21,Diesel,Automatic,Hatchback,35936,2051722,2326840,275118,57,Male,Delhi,Sneha Patil,Bank Transfer
+CAR_1538,Maruti Suzuki,Baleno,2018,2018-12-24,2019-11-09,Diesel,Automatic,Hatchback,106610,828886,943669,114783,37,Male,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1539,Maruti Suzuki,Baleno,2021,2021-12-07,2022-05-13,Petrol,Automatic,Hatchback,32197,1407705,1626852,219147,62,Female,Delhi,Rahul Sharma,UPI
+CAR_1540,Mahindra,Thar,2022,2022-12-17,2023-05-25,Petrol,Manual,SUV,99491,492091,556037,63946,52,Female,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1541,Mahindra,Thar,2023,2023-07-08,2024-03-17,CNG,Manual,SUV,88276,1810038,2142692,332654,52,Male,Pune,Amit Deshmukh,Bank Transfer
+CAR_1542,Toyota,Innova,2023,2023-03-03,2023-05-18,Petrol,Manual,Hatchback,8650,2326252,2599016,272764,43,Female,Mumbai,Priya Kulkarni,UPI
+CAR_1543,Maruti Suzuki,Baleno,2015,2015-10-12,2016-07-05,Petrol,Manual,Hatchback,94494,2063229,2287071,223842,41,Female,Mumbai,Priya Kulkarni,UPI
+CAR_1544,Honda,Amaze,2019,2019-09-04,2020-01-01,Petrol,Manual,Hatchback,25982,2376230,2707645,331415,33,Female,Mumbai,Amit Deshmukh,Bank Transfer
+CAR_1545,Honda,Amaze,2018,2018-03-02,2018-11-16,Diesel,Manual,Hatchback,111705,1462279,1739844,277565,47,Female,Kolhapur,Sneha Patil,Finance/Loan
+CAR_1546,Maruti Suzuki,Swift,2020,2020-11-20,2021-05-01,Petrol,Automatic,Hatchback,105572,1416783,1670545,253762,43,Female,Kolhapur,Priya Kulkarni,UPI
+CAR_1547,Honda,Elevate,2019,2019-02-02,2020-01-28,Diesel,Manual,Hatchback,80386,2138667,2561595,422928,28,Female,Mumbai,Sneha Patil,Bank Transfer
+CAR_1548,Honda,Elevate,2020,2020-09-03,2021-05-02,Petrol,Manual,Hatchback,114419,2034461,2467456,432995,31,Male,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1549,Toyota,Glanza,2015,2015-04-23,2015-10-29,CNG,Manual,Hatchback,53506,1207400,1424676,217276,55,Female,Delhi,Rahul Sharma,Finance/Loan
+CAR_1550,Honda,City,2022,2022-03-03,2022-06-22,Petrol,Manual,Sedan,48310,748943,860375,111432,39,Female,Kolhapur,Amit Deshmukh,Finance/Loan
+CAR_1551,Maruti Suzuki,Swift,2021,2021-07-01,2021-09-17,Electric,Manual,Hatchback,50591,1248182,1352551,104369,63,Male,Delhi,Sneha Patil,UPI
+CAR_1552,Maruti Suzuki,Brezza,2022,2022-11-09,2022-12-20,Diesel,Manual,SUV,73827,828472,927149,98677,40,Female,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1553,Maruti Suzuki,Baleno,2021,2021-11-13,2022-01-12,Diesel,Automatic,Hatchback,101330,737766,861580,123814,50,Female,Delhi,Priya Kulkarni,UPI
+CAR_1554,Toyota,Innova,2015,2015-05-12,2015-10-12,CNG,Manual,Hatchback,12244,1181608,1425289,243681,45,Female,Delhi,Sneha Patil,UPI
+CAR_1555,Maruti Suzuki,Brezza,2017,2017-06-11,2017-12-14,Petrol,Automatic,SUV,105025,1599728,1852890,253162,49,Female,Mumbai,Rahul Sharma,Cash
+CAR_1556,Maruti Suzuki,Brezza,2020,2020-02-10,2020-06-10,Diesel,Manual,SUV,48876,1533009,1661207,128198,52,Male,Mumbai,Amit Deshmukh,Bank Transfer
+CAR_1557,Toyota,Innova,2019,2019-01-22,2019-07-23,Petrol,Automatic,Hatchback,98955,2064005,2430534,366529,34,Female,Delhi,Amit Deshmukh,Cash
+CAR_1558,Hyundai,Verna,2021,2021-04-01,2022-01-25,Petrol,Manual,Sedan,38837,2152813,2602331,449518,41,Male,Bangalore,Priya Kulkarni,Finance/Loan
+CAR_1559,Tata,Nexon,2017,2017-01-02,2017-04-20,CNG,Manual,SUV,109085,1033389,1165204,131815,34,Male,Delhi,Sneha Patil,Cash
+CAR_1560,Tata,Nexon,2022,2022-03-15,2022-08-06,CNG,Automatic,SUV,35255,1750093,1897236,147143,50,Male,Mumbai,Priya Kulkarni,Cash
+CAR_1561,Toyota,Innova,2021,2021-04-11,2021-11-11,Diesel,Manual,Hatchback,31986,1404411,1622319,217908,45,Female,Kolhapur,Amit Deshmukh,UPI
+CAR_1562,Tata,Harrier,2023,2023-05-06,2024-04-20,Petrol,Automatic,SUV,106975,1804568,2042731,238163,47,Female,Kolhapur,Priya Kulkarni,Finance/Loan
+CAR_1563,Honda,City,2020,2020-06-03,2020-10-16,Diesel,Automatic,Sedan,64321,1320267,1439032,118765,33,Female,Pune,Amit Deshmukh,UPI
+CAR_1564,Tata,Altroz,2015,2015-02-09,2016-01-18,Petrol,Manual,Hatchback,43174,2357686,2630758,273072,31,Female,Pune,Sneha Patil,UPI
+CAR_1565,Tata,Altroz,2020,2020-03-24,2021-03-07,Petrol,Manual,Hatchback,95715,839717,987507,147790,28,Male,Pune,Sneha Patil,Finance/Loan
+CAR_1566,Maruti Suzuki,Baleno,2022,2022-04-02,2022-06-13,Petrol,Manual,Hatchback,68620,1595402,1848050,252648,22,Male,Pune,Rahul Sharma,Finance/Loan
+CAR_1567,Toyota,Glanza,2019,2019-08-04,2020-06-06,Petrol,Automatic,Hatchback,71400,765837,920737,154900,32,Female,Bangalore,Amit Deshmukh,UPI
+CAR_1568,Toyota,Innova,2022,2022-06-26,2023-02-04,Diesel,Automatic,Hatchback,16760,2086090,2505428,419338,64,Male,Delhi,Rahul Sharma,Bank Transfer
+CAR_1569,Honda,Elevate,2017,2017-04-10,2017-11-12,CNG,Manual,Hatchback,44465,2451933,2745534,293601,63,Female,Pune,Amit Deshmukh,Cash
+CAR_1570,Toyota,Fortuner,2016,2016-01-24,2016-10-10,Petrol,Manual,SUV,20893,1953185,2342213,389028,22,Male,Bangalore,Rahul Sharma,UPI
+CAR_1571,Mahindra,Thar,2018,2018-09-09,2019-03-07,Petrol,Manual,SUV,24622,692552,762884,70332,28,Female,Delhi,Priya Kulkarni,Cash
+CAR_1572,Tata,Nexon,2021,2021-03-22,2021-10-02,Petrol,Manual,SUV,105565,2311357,2501859,190502,54,Female,Bangalore,Priya Kulkarni,Bank Transfer
+CAR_1573,Tata,Nexon,2022,2022-08-04,2022-10-09,Diesel,Automatic,SUV,71961,1550127,1711265,161138,40,Male,Bangalore,Amit Deshmukh,Cash
+CAR_1574,Toyota,Fortuner,2015,2015-10-21,2016-05-25,Diesel,Automatic,SUV,76492,1659112,1818363,159251,62,Male,Bangalore,Rahul Sharma,UPI
+CAR_1575,Maruti Suzuki,Baleno,2021,2021-02-09,2021-05-09,Petrol,Manual,Hatchback,89667,404677,440705,36028,55,Male,Delhi,Sneha Patil,Bank Transfer
+CAR_1576,Mahindra,Thar,2022,2022-10-04,2022-12-20,Diesel,Automatic,SUV,50771,1017423,1213733,196310,59,Female,Delhi,Rahul Sharma,UPI
+CAR_1577,Hyundai,Creta,2021,2021-02-01,2021-12-22,Diesel,Manual,SUV,102596,481238,582981,101743,54,Female,Delhi,Sneha Patil,Bank Transfer
+CAR_1578,Mahindra,Thar,2015,2015-05-16,2016-03-11,Petrol,Automatic,SUV,43383,2229484,2438445,208961,55,Male,Kolhapur,Priya Kulkarni,Bank Transfer
+CAR_1579,Tata,Nexon,2015,2015-09-10,2015-10-17,Petrol,Manual,SUV,40524,1062213,1154933,92720,38,Male,Bangalore,Priya Kulkarni,Cash
+CAR_1580,Hyundai,i20,2015,2015-04-04,2015-06-26,CNG,Manual,Hatchback,46941,1894475,2184036,289561,64,Female,Pune,Sneha Patil,Bank Transfer
+CAR_1581,Hyundai,Creta,2015,2015-05-08,2016-04-07,Petrol,Manual,SUV,19855,577476,636328,58852,59,Male,Kolhapur,Rahul Sharma,UPI
+CAR_1582,Mahindra,Thar,2016,2016-09-18,2017-09-12,Diesel,Manual,SUV,92154,1556649,1748710,192061,27,Female,Bangalore,Sneha Patil,UPI
+CAR_1583,Maruti Suzuki,Brezza,2017,2017-01-06,2017-12-20,Diesel,Automatic,SUV,45088,2148071,2509119,361048,28,Female,Mumbai,Amit Deshmukh,UPI
+CAR_1584,Hyundai,Creta,2023,2023-04-23,2023-07-08,Petrol,Manual,SUV,39959,1704140,1960494,256354,34,Male,Delhi,Priya Kulkarni,Bank Transfer
+CAR_1585,Hyundai,Verna,2023,2023-02-06,2023-06-11,Petrol,Automatic,Sedan,27948,459072,509030,49958,25,Male,Pune,Amit Deshmukh,UPI
+CAR_1586,Honda,Amaze,2015,2015-03-02,2016-02-25,Petrol,Automatic,Hatchback,59545,515981,592781,76800,52,Female,Pune,Sneha Patil,Finance/Loan
+CAR_1587,Hyundai,Creta,2023,2023-03-08,2023-11-12,Diesel,Automatic,SUV,55411,1070608,1276339,205731,30,Female,Delhi,Priya Kulkarni,Cash
+CAR_1588,Tata,Altroz,2019,2019-11-20,2020-05-03,Diesel,Manual,Hatchback,92086,1661402,1843223,181821,41,Female,Bangalore,Amit Deshmukh,Cash
+CAR_1589,Toyota,Innova,2018,2018-12-09,2019-03-25,Diesel,Automatic,Hatchback,111601,1923163,2119805,196642,45,Male,Mumbai,Rahul Sharma,Cash
+CAR_1590,Hyundai,i20,2016,2016-10-22,2017-06-13,CNG,Automatic,Hatchback,22276,784083,854755,70672,54,Male,Delhi,Sneha Patil,UPI
+CAR_1591,Hyundai,i20,2022,2022-04-03,2022-09-04,CNG,Manual,Hatchback,110935,2466494,2793338,326844,54,Female,Kolhapur,Priya Kulkarni,UPI
+CAR_1592,Hyundai,Verna,2021,2021-01-13,2021-12-26,Petrol,Manual,Sedan,38513,933037,1083059,150022,32,Male,Mumbai,Priya Kulkarni,Bank Transfer
+CAR_1593,Maruti Suzuki,Brezza,2016,2016-06-20,2016-08-21,CNG,Automatic,SUV,27369,2435030,2928944,493914,46,Female,Delhi,Priya Kulkarni,Cash
+CAR_1594,Maruti Suzuki,Baleno,2017,2017-06-22,2018-04-17,CNG,Manual,Hatchback,77258,2176238,2422344,246106,48,Male,Mumbai,Rahul Sharma,UPI
+CAR_1595,Tata,Nexon,2022,2022-03-15,2022-06-28,Diesel,Manual,SUV,115920,1438457,1587117,148660,47,Female,Kolhapur,Rahul Sharma,Finance/Loan
+CAR_1596,Maruti Suzuki,Swift,2017,2017-04-17,2017-06-23,Diesel,Manual,Hatchback,81850,1514764,1763991,249227,36,Male,Bangalore,Sneha Patil,Finance/Loan
+CAR_1597,Maruti Suzuki,Brezza,2023,2023-10-04,2024-03-29,Diesel,Manual,SUV,119634,1177867,1423304,245437,51,Female,Delhi,Amit Deshmukh,Finance/Loan
+CAR_1598,Maruti Suzuki,Swift,2023,2023-11-09,2024-04-12,CNG,Manual,Hatchback,78058,525555,625358,99803,35,Male,Mumbai,Rahul Sharma,UPI
+CAR_1599,Toyota,Innova,2023,2023-03-19,2024-01-21,Petrol,Manual,Hatchback,93207,598017,666534,68517,22,Female,Pune,Rahul Sharma,Finance/Loan
+CAR_1600,Hyundai,Verna,2022,2022-07-15,2022-10-24,Petrol,Manual,Sedan,7402,1511766,1709968,198202,49,Male,Bangalore,Sneha Patil,UPI
