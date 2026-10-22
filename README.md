@@ -1,6 +1,8 @@
 # 🚗 Car Showroom Sales Analysis & Price Prediction
 
-An end-to-end Data Science and Machine Learning project developed as part of an internship assignment. This project analyzes car showroom sales data, extracts key business insights regarding customer preferences and showroom performance, and builds a robust supervised machine learning pipeline to predict vehicle selling prices.
+An end-to-end Data Science and Machine Learning project developed as part of an internship assignment. 
+This project analyzes car showroom sales data, extracts key business insights regarding customer preferences and showroom performance, 
+and builds a robust supervised machine learning pipeline to predict vehicle selling prices.
 
 ---
 
@@ -25,14 +27,15 @@ The management required data-driven answers to core business questions regarding
 └── 📊 README.md                                          # Project documentation
 
 
+
 ---
 
 ## 🛠️ Tools & Technologies Used
-- Python (Programming Language)
-- Pandas & NumPy (Data Manipulation & Numerical Operations)
-- Matplotlib & Seaborn (Data Visualization & EDA Plots)
-- Scikit-learn (Machine Learning Model Training, Pipelines & Evaluation)
-- Google Colab / Jupyter Notebook (Development Environment)
+- **Python** (Programming Language)
+- **Pandas & NumPy** (Data Manipulation & Numerical Operations)
+- **Matplotlib & Seaborn** (Data Visualization & EDA Plots)
+- **Scikit-learn** (Machine Learning Model Training, Pipelines & Evaluation)
+- **Google Colab / Jupyter Notebook** (Development Environment)
 
 ---
 
@@ -67,4 +70,4 @@ Three supervised regression models were trained using an 80-20 train-test split 
 ---
 
 ## 👤 Author
-- Pratik Kalavikatte (Data Analytics Intern)
+- **Pratik Kalavikatte** (Data Analytics Intern)
